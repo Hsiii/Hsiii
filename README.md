@@ -15,7 +15,7 @@ I enjoy both coding and drawing — frontend is where they come together, shapin
 
 - **Frontend Engineer Intern (Vendor)** @ Microsoft – [Azure AI | Content Understanding Studio](https://contentunderstanding.ai.azure.com/home)  
   Shipped production React features, improved UI/UX stability, and optimized performance and accessibility across core Azure AI product flows.
-- **Open Source Contributor** - [Rosé Pine](https://github.com/rose-pine/vscode)  
+- **Open Source Contributor** – [Rosé Pine](https://github.com/rose-pine/vscode)  
   Contributed to a widely-used theme ecosystem that’s part of my daily development environment.
 
 #### Current Projects
@@ -26,7 +26,5 @@ I enjoy both coding and drawing — frontend is where they come together, shapin
 
 #### Affiliations
 
-- **[NTHU Student Association](https://github.com/NTHU-SA)**  
-  Working with the student association to expand ccxpLite adoption and refine the experience through real user feedback.
-- **[Sessatakuma](https://github.com/sessatakuma)**  
-  Building AI-assisted tools for Japanese speaking practice, focusing on gaps often overlooked in traditional JLPT-focused learning.
+- **[NTHU Student Association](https://github.com/NTHU-SA)** – Working with the student association to expand ccxpLite adoption and refine the experience through real user feedback.
+- **[Sessatakuma](https://github.com/sessatakuma)** – Building AI-assisted tools for Japanese speaking practice, focusing on gaps often overlooked in traditional JLPT-focused learning.
