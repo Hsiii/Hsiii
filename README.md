@@ -5,9 +5,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Affinity](assets/badges/affinity.svg)
-![Procreate](assets/badges/procreate.svg)
-![Codex](assets/badges/codex.svg)
+![Affinity](https://raw.githubusercontent.com/Hsiii/Hsiii/main/assets/badges/affinity.svg)
+![Procreate](https://raw.githubusercontent.com/Hsiii/Hsiii/main/assets/badges/procreate.svg)
+![Codex](https://raw.githubusercontent.com/Hsiii/Hsiii/main/assets/badges/codex.svg)
 
 I enjoy both coding and drawing — frontend is where they come together, shaping how I approach UI/UX and product design.
 
