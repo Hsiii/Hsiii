@@ -22,7 +22,7 @@ I enjoy both coding and drawing — frontend is where they come together, shapin
 - **[ccxpLite](https://github.com/Hsiii/ccxpLite)** – Making the NTHU academic system actually usable — UI overhaul, navigation redesign, and reliable decaptcha.
 - **[OnTrack](https://github.com/Hsiii/OnTrack)** – Train schedules with auto-detected routes and one-tap arrival sharing.
 - **[Homepage](https://github.com/Hsiii/Homepage)** – Browser homepage for browser-agnostic bookmark access — hover, hotkeys, and instant search.
-- **[Talkuma](https://github.com/sessatakuma)** - An AI-assisted Japanese speaking practice suite.
+- **[Talkuma](https://github.com/sessatakuma)** – An AI-assisted Japanese speaking practice suite.
 
 #### Affiliations
 
