@@ -13,9 +13,11 @@ I enjoy both coding and drawing — frontend is where they come together, shapin
 
 #### Experience
 
-- **Frontend Engineer Intern (Vendor)** @ Microsoft – [Azure AI | Content Understanding Studio](https://contentunderstanding.ai.azure.com/home)  
+- **Frontend Engineer Intern (Vendor) @ Microsoft**  
+  **[Azure AI | Content Understanding Studio](https://contentunderstanding.ai.azure.com/home)**  
   Shipped production React features, improved UI/UX stability, and optimized performance and accessibility across core Azure AI product flows.
-- **Open Source Contributor** – [Rosé Pine](https://github.com/rose-pine/vscode)  
+- **Open Source Contributor**  
+  **[Rosé Pine](https://github.com/rose-pine/vscode)**  
   Contributed to a widely-used theme ecosystem that’s part of my daily development environment.
 
 #### Current Projects
