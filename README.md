@@ -20,9 +20,9 @@ I enjoy both coding and drawing — frontend is where they come together, shapin
   Contributed to a widely-used theme ecosystem that’s part of my daily development environment.
 
 #### Current Projects
-- **[ccxpLite](https://github.com/Hsiii/ccxpLite)** – Making the NTHU academic system actually usable (UI overhaul, navigation redesign, reliable decaptcha)
-- **[OnTrack](https://github.com/Hsiii/OnTrack)** – Train schedules with auto-detected routes and one-tap arrival sharing
-- **[Homepage](https://github.com/Hsiii/Homepage)** – Browser homepage for fast, frictionless bookmark access
+- **[ccxpLite](https://github.com/Hsiii/ccxpLite)** – Making the NTHU academic system actually usable — UI overhaul, navigation redesign, and reliable decaptcha.
+- **[OnTrack](https://github.com/Hsiii/OnTrack)** – Train schedules with auto-detected routes and one-tap arrival sharing.
+- **[Homepage](https://github.com/Hsiii/Homepage)** – Browser homepage for browser-agnostic bookmark access — hover, hotkeys, and instant search.
 
 #### Affiliations
 
