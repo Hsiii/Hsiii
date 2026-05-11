@@ -1,3 +1,4 @@
+
 ### Hi, I'm Hsi
 
 **Frontend-focused builder** | **UX optimizer**  
@@ -20,10 +21,11 @@ I enjoy both coding and drawing — frontend is where they come together, shapin
 
 #### Current Projects
 - **[ccxpLite](https://github.com/Hsiii/ccxpLite)** – Making the NTHU academic system actually usable — UI overhaul, navigation redesign, and reliable decaptcha.
-- **[OnTrack](https://github.com/Hsiii/OnTrack)** – Train schedules with auto-detected routes and one-tap arrival sharing.
-- **[Homepage](https://github.com/Hsiii/Homepage)** – Browser homepage for browser-agnostic bookmark access — hover, hotkeys, and instant search.
-- **[Talkuma](https://github.com/sessatakuma)** – An AI-assisted Japanese speaking practice suite.
+- **[ccxpDecaptcha](https://github.com/Hsiii/ccxpDecaptcha)** – Training pipeline for NTHU CCXP & CCXP OAuth decaptcha models.
+- **[Talkuma](https://github.com/sessatakuma)** – AI-assisted Japanese speaking practice suite.
 - **[Accent Marker](https://github.com/sessatakuma/accent-marker)** - Japanese furigana + pitch-accent auto-marker for quick speaking/reading reference lookup, under Talkuma.
+- **[OnTrack](https://github.com/Hsiii/OnTrack)** – Train schedules with auto-detected routes and one-tap arrival sharing, built to save some hassle while commuting.
+- **[Homepage](https://github.com/Hsiii/Homepage)** – Browser homepage for browser-agnostic bookmark access — hover, hotkeys, and instant search.
 
 #### Affiliations
 
