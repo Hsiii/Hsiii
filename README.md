@@ -1,7 +1,9 @@
 
-### Hi, I'm Hsi
+### Hi, I'm Hsi 👋
 
-**Frontend-focused builder** | **UX optimizer**  
+
+
+I enjoy both coding and drawing — frontend is where they come together, shaping how I approach UI/UX and product design.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -10,27 +12,20 @@
 ![Procreate][procreate-badge]
 ![Codex][codex-badge]
 
-I enjoy both coding and drawing — frontend is where they come together, shaping how I approach UI/UX and product design.
-
 #### Experience
 
-- **Frontend Engineer Intern (Vendor) @ Microsoft**  
-  **[Azure AI | Content Understanding Studio](https://contentunderstanding.ai.azure.com/home)** – Shipped production React features, improved UI/UX stability, and optimized performance and accessibility across core Azure AI product flows.
-- **Open Source Contributor**  
-  **[Rosé Pine](https://github.com/rose-pine/vscode)** – Contributed to a widely-used theme ecosystem that’s part of my daily development environment.
+- **Frontend Engineer Intern (Vendor) @ Microsoft** — Shipped production React features and improved core UI/UX, performance, and accessibility.
+- **[Rosé Pine](https://github.com/rose-pine/vscode)** Contributor — Contributed to a widely-used theme ecosystem I use daily.
+- **[NTHU Student Association](https://github.com/NTHU-SA)** Collaborator — Expanding ccxpLite toward broader campus adoption
+- **[Sessatakuma](https://github.com/sessatakuma)** Co-founder — Building AI-assisted Japanese speaking tools beyond JLPT-focused learning.
 
 #### Current Projects
-- **[ccxpLite](https://github.com/Hsiii/ccxpLite)** – Making the NTHU Academic Information System actually usable — UI overhaul, navigation redesign, decaptcha, and better i18n support.
-- **[ccxpDecaptcha](https://github.com/Hsiii/ccxpDecaptcha)** – Training pipeline for NTHU CCXP & CCXP OAuth decaptcha models.
-- **[Talkuma](https://github.com/sessatakuma)** – AI-assisted Japanese speaking practice suite.
-- **[Accent Marker](https://github.com/sessatakuma/accent-marker)** - Japanese furigana + pitch-accent auto-marker for quick speaking/reading reference lookup, under Talkuma.
-- **[OnTrack](https://github.com/Hsiii/OnTrack)** – Train schedules with auto-detected routes and one-tap arrival sharing, built to save some hassle while commuting.
-- **[Homepage](https://github.com/Hsiii/Homepage)** – Browser homepage for browser-agnostic bookmark access — hover, hotkeys, and instant search.
-
-#### Affiliations
-
-- **[NTHU Student Association](https://github.com/NTHU-SA)** – Working with the student association to expand ccxpLite adoption and refine the experience through real user feedback.
-- **[Sessatakuma](https://github.com/sessatakuma)** – Building AI-assisted tools for Japanese speaking practice, focusing on gaps often overlooked in traditional JLPT-focused learning.
+- **[ccxpLite](https://github.com/Hsiii/ccxpLite)** — NTHU Academic Information System overhaul — UI/UX, decaptcha, and i18n.
+- **[ccxpDecaptcha](https://github.com/Hsiii/ccxpDecaptcha)** — NTHU CCXP & OAuth decaptcha model training pipeline.
+- **[Accent Marker](https://github.com/sessatakuma/accent-marker)** — Furigana & pitch-accent auto-marker for JP learners.
+- **[Talkuma](https://github.com/sessatakuma)** — Early-stage AI-assisted Japanese speaking practice suite.
+- **[OnTrack](https://github.com/Hsiii/OnTrack)** — Auto-detected train routes with instant arrival checks.
+- **[Homepage](https://github.com/Hsiii/Homepage)** — Keyboard-first browser homepage with instant bookmark access.
 
 [affinity-badge]: https://hsiii-badges.vercel.app/badges/affinity.v1.svg
 [procreate-badge]: https://hsiii-badges.vercel.app/badges/procreate.v1.svg
