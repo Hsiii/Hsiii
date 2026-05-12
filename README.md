@@ -14,7 +14,7 @@ I enjoy both coding and drawing — frontend is where they come together, shapin
 
 #### Experience
 
-- **Frontend Engineer Intern (Vendor) @ Microsoft** — Shipped production React features and improved core UI/UX, performance, and accessibility.
+- **Frontend Intern @ Microsoft** — Shipped production React features, improved core UI/UX, performance, and accessibility.
 - **[Rosé Pine](https://github.com/rose-pine/vscode)** Contributor — Contributed to a widely-used theme ecosystem I use daily.
 - **[NTHU Student Association](https://github.com/NTHU-SA)** Collaborator — Expanding ccxpLite toward broader campus adoption
 - **[Sessatakuma](https://github.com/sessatakuma)** Co-founder — Building AI-assisted Japanese speaking tools beyond JLPT-focused learning.
