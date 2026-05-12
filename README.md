@@ -20,7 +20,7 @@ I enjoy both coding and drawing — frontend is where they come together, shapin
   **[Rosé Pine](https://github.com/rose-pine/vscode)** – Contributed to a widely-used theme ecosystem that’s part of my daily development environment.
 
 #### Current Projects
-- **[ccxpLite](https://github.com/Hsiii/ccxpLite)** – Making the NTHU academic system actually usable — UI overhaul, navigation redesign, and reliable decaptcha.
+- **[ccxpLite](https://github.com/Hsiii/ccxpLite)** – Making the NTHU academic system actually usable — UI overhaul, navigation redesign, decaptcha, and better i18n support.
 - **[ccxpDecaptcha](https://github.com/Hsiii/ccxpDecaptcha)** – Training pipeline for NTHU CCXP & CCXP OAuth decaptcha models.
 - **[Talkuma](https://github.com/sessatakuma)** – AI-assisted Japanese speaking practice suite.
 - **[Accent Marker](https://github.com/sessatakuma/accent-marker)** - Japanese furigana + pitch-accent auto-marker for quick speaking/reading reference lookup, under Talkuma.
