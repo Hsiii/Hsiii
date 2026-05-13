@@ -12,7 +12,7 @@ I enjoy both coding and drawing — frontend is where they come together.
 #### Experience
 
 - **Frontend Intern @ Microsoft** — Shipped production React features, improved core UI/UX, performance, and accessibility.
-- **[Sessatakuma](https://github.com/sessatakuma)** Co-founder & Frontend Lead — Building AI-assisted Japanese speaking practice tools beyond JLPT-focused learning.
+- **[Sessatakuma](https://github.com/sessatakuma)** Co-founder & Frontend Lead — Building AI-assisted Japanese speaking practice tools.
 - **[NTHU Student Association](https://github.com/NTHU-SA)** Collaborator — Expanding ccxpLite toward broader campus adoption.
 - **[Rosé Pine](https://github.com/rose-pine/vscode)** Contributor — Contributed to a widely-used theme ecosystem I use daily.
 
