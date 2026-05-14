@@ -21,7 +21,7 @@ I enjoy both coding and drawing — frontend is where they come together.
 - **[ccxpDecaptcha](https://github.com/Hsiii/ccxpDecaptcha)** — NTHU CCXP & OAuth decaptcha OCR pipeline powering ccxpLite login automation.
 - **[Accent Marker](https://github.com/sessatakuma/accent-marker)** — Furigana & pitch-accent auto-marker for JP learners.
 - **[Talkuma](https://github.com/sessatakuma)** — Early-stage AI-assisted Japanese speaking practice suite.
-- **[OnTrack](https://github.com/Hsiii/OnTrack)** — Auto-detected train routes with instant arrival checks.
+- **[OnTrack](https://github.com/Hsiii/OnTrack)** — Train schedule app with auto-detected train routes and instant arrival checks.
 - **[Homepage](https://github.com/Hsiii/Homepage)** — Browser homepage with hotkey bookmark access.
 
 [affinity-badge]: https://hsiii-badges.vercel.app/badges/affinity.v1.svg
