@@ -17,6 +17,7 @@ Design-focused builder.
 #### Projects
 - **[ccxpLite](https://github.com/Hsiii/ccxpLite)** — A faster, cleaner experience for the NTHU Academic Information System.
 - **[ccxpDecaptcha](https://github.com/Hsiii/ccxpDecaptcha)** — Training suite for NTHU CCXP & OAuth OCR decaptcha models.
+- **[EZE3](https://github.com/Hsiii/EZE3)** — One-click NYCU Portal → E3 access with automated login and authenticator integration.
 - **[Accent Marker](https://github.com/sessatakuma/accent-marker)** — Furigana & pitch-accent auto-marker for JP learners.
 - **[CodexMux](https://github.com/Hsiii/CodexMux)** — Track Codex usage across accounts and workspaces.
 - **[OnTrack](https://github.com/Hsiii/OnTrack)** — Train schedule app with auto-detected train routes and instant arrival checks.
