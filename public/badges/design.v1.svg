@@ -35,13 +35,12 @@
     </g>
     <g class="slot" transform="translate(0 28)">
       <rect class="affinity-bg" width="124" height="28"/>
-      <path class="dark" d="M9 21 16 6l7 15h-4l-1-3h-6l-1 3zm5-7h4l-2-5z"/>
+      <path d="M112.908 165.979c-10.413 0-17.037-6.317-17.037-14.329 0-34.287 90.164-41.151 90.164-77.563 0-22.213-25.731-31.787-58.577-31.787-19.98 0-42.571 3.698-63.552 10.315v43.438c30.919-22.52 65.272-32.16 87.4-32.16 13.914 0 23.355 3.882 23.355 10.838 0 28.658-124.353 24.117-124.353 86.042 0 23.736 16.321 37.335 39.283 37.335 34.732 0 61.003-33.753 80.657-74.897l3.982 1.43c-10.351 25.143-31.771 52.712-35.943 70.434h44.715v-91.685h-10.327c-14.99 32.574-36.957 62.59-59.767 62.59" fill="#000" fill-rule="nonzero" transform="translate(9 7) scale(.058333)"/>
       <text class="dark" x="76" y="18" text-anchor="middle">AFFINITY</text>
     </g>
     <g class="slot" transform="translate(0 56)">
       <rect class="procreate-bg" width="124" height="28"/>
-      <circle class="ink" cx="16" cy="14" r="8" opacity=".18"/>
-      <path class="ink" d="M10 18c5-1 8-4 10-10 3 6 0 12-8 14z"/>
+      <image x="9" y="7" width="14" height="14" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAIAAABvFaqvAAABfElEQVQ4EWNkYmL6//8/A2WAkZGRGWgC5QYBDWGizCkI3cPGID5OaVZmToTHyA4jCX4LVmYOSg0S4zVRFLT+9fcrBQYxMihKufhpt3EyfPnz9xeyQSzIHHxsJmYRSUNjhXArHkelf3yNNyvRFBMyiEeQQVpfQETfTNLSnVVb/wu3xD+uGQ9n33l/lliDmIRFpH1jzc0C7ZnELd8ySz5hYH3H/PPv15WPls+/2YVmCpCL3UW85urxldWpctqan36wvnjx5xPT37+/Xj2+3n99wdT3Z1DCBmYkFoNkzOQ65pVFcSswPrrB8OA9w+1fb6792Xfn1sTb20/9eArTiE4D8y0jcqbl4OZYsWOGv674l53Tbu+/euner4OP/h58+u3e54/oWpH4QEMYQBgJ+IR6fnl/oLNYT0+BgZXojIjFoIlTipPjbJFMJoqJbhA3N0dqsi0T0Q6BW4JpELu8rCBcmngGukHE60RTCTSIdG+gmQHjDj6DWEDhRDEAGgIAWs1s/z/C+ggAAAAASUVORK5CYII="/>
       <text class="ink" x="76" y="18" text-anchor="middle">PROCREATE</text>
     </g>
     <g class="slot" transform="translate(0 84)">
