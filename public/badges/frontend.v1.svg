@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="28" viewBox="0 0 88 28" role="img" aria-label="React swapping with Vite and Bun">
+  <title>React / Vite / Bun</title>
+  <style>
+    .stack { animation: swap-3 9s ease-in-out infinite; }
+    .slot text { font: 700 10px Verdana, Geneva, DejaVu Sans, sans-serif; text-rendering: geometricPrecision; }
+    .react-bg { fill: #61dafb; }
+    .vite-bg { fill: #646cff; }
+    .bun-bg { fill: #000; }
+    .ink { fill: #fff; }
+    .dark { fill: #111; }
+    .vite-accent { fill: #ffd62e; }
+    .react-mark { fill: none; stroke: #111; stroke-width: 1.4; }
+    .bun-smile { fill: none; stroke: #111; stroke-width: 1; stroke-linecap: round; }
+    @keyframes swap-3 {
+      0%, 28% { transform: translateY(0); }
+      33%, 61% { transform: translateY(-28px); }
+      66%, 94% { transform: translateY(-56px); }
+      100% { transform: translateY(-84px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .stack { animation: none; }
+      .slot:nth-child(n+2) { display: none; }
+    }
+  </style>
+  <clipPath id="badge-clip"><rect width="88" height="28"/></clipPath>
+  <g clip-path="url(#badge-clip)">
+  <g class="stack">
+    <g class="slot">
+      <rect class="react-bg" width="88" height="28"/>
+      <g transform="translate(16 14)">
+        <ellipse class="react-mark" rx="8" ry="3"/>
+        <ellipse class="react-mark" rx="8" ry="3" transform="rotate(60)"/>
+        <ellipse class="react-mark" rx="8" ry="3" transform="rotate(-60)"/>
+        <circle class="dark" r="2"/>
+      </g>
+      <text class="dark" x="58" y="18" text-anchor="middle">REACT</text>
+    </g>
+    <g class="slot" transform="translate(0 28)">
+      <rect class="vite-bg" width="88" height="28"/>
+      <path class="ink" d="M8 7h16l-8 16z" opacity=".95"/>
+      <path class="vite-accent" d="M14 7h8l-7 8z"/>
+      <text class="ink" x="58" y="18" text-anchor="middle">VITE</text>
+    </g>
+    <g class="slot" transform="translate(0 56)">
+      <rect class="bun-bg" width="88" height="28"/>
+      <ellipse class="ink" cx="16" cy="14" rx="9" ry="7"/>
+      <circle class="dark" cx="13" cy="14" r="1"/>
+      <circle class="dark" cx="19" cy="14" r="1"/>
+      <path class="bun-smile" d="M13 17c2 1 4 1 6 0"/>
+      <text class="ink" x="58" y="18" text-anchor="middle">BUN</text>
+    </g>
+    <g class="slot" transform="translate(0 84)">
+      <rect class="react-bg" width="88" height="28"/>
+      <g transform="translate(16 14)">
+        <ellipse class="react-mark" rx="8" ry="3"/>
+        <ellipse class="react-mark" rx="8" ry="3" transform="rotate(60)"/>
+        <ellipse class="react-mark" rx="8" ry="3" transform="rotate(-60)"/>
+        <circle class="dark" r="2"/>
+      </g>
+      <text class="dark" x="58" y="18" text-anchor="middle">REACT</text>
+    </g>
+  </g>
+  </g>
+</svg>

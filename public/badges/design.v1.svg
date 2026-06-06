@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="28" viewBox="0 0 124 28" role="img" aria-label="Figma swapping with Affinity and Procreate">
+  <title>Figma / Affinity / Procreate</title>
+  <style>
+    .stack { animation: swap-3 9s ease-in-out infinite; }
+    .slot text { font: 700 10px Verdana, Geneva, DejaVu Sans, sans-serif; text-rendering: geometricPrecision; }
+    .figma-bg { fill: #f24e1e; }
+    .affinity-bg { fill: #a7f175; }
+    .procreate-bg { fill: #000; }
+    .ink { fill: #fff; }
+    .dark { fill: #222; }
+    @keyframes swap-3 {
+      0%, 28% { transform: translateY(0); }
+      33%, 61% { transform: translateY(-28px); }
+      66%, 94% { transform: translateY(-56px); }
+      100% { transform: translateY(-84px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .stack { animation: none; }
+      .slot:nth-child(n+2) { display: none; }
+    }
+  </style>
+  <clipPath id="badge-clip"><rect width="124" height="28"/></clipPath>
+  <g clip-path="url(#badge-clip)">
+  <g class="stack">
+    <g class="slot">
+      <rect class="figma-bg" width="124" height="28"/>
+      <g class="ink">
+        <circle cx="12" cy="10" r="4"/>
+        <circle cx="20" cy="10" r="4"/>
+        <circle cx="12" cy="18" r="4"/>
+        <circle cx="20" cy="18" r="4"/>
+        <path d="M12 22a4 4 0 0 1 0-8z"/>
+      </g>
+      <text class="ink" x="76" y="18" text-anchor="middle">FIGMA</text>
+    </g>
+    <g class="slot" transform="translate(0 28)">
+      <rect class="affinity-bg" width="124" height="28"/>
+      <path class="dark" d="M9 21 16 6l7 15h-4l-1-3h-6l-1 3zm5-7h4l-2-5z"/>
+      <text class="dark" x="76" y="18" text-anchor="middle">AFFINITY</text>
+    </g>
+    <g class="slot" transform="translate(0 56)">
+      <rect class="procreate-bg" width="124" height="28"/>
+      <circle class="ink" cx="16" cy="14" r="8" opacity=".18"/>
+      <path class="ink" d="M10 18c5-1 8-4 10-10 3 6 0 12-8 14z"/>
+      <text class="ink" x="76" y="18" text-anchor="middle">PROCREATE</text>
+    </g>
+    <g class="slot" transform="translate(0 84)">
+      <rect class="figma-bg" width="124" height="28"/>
+      <g class="ink">
+        <circle cx="12" cy="10" r="4"/>
+        <circle cx="20" cy="10" r="4"/>
+        <circle cx="12" cy="18" r="4"/>
+        <circle cx="20" cy="18" r="4"/>
+        <path d="M12 22a4 4 0 0 1 0-8z"/>
+      </g>
+      <text class="ink" x="76" y="18" text-anchor="middle">FIGMA</text>
+    </g>
+  </g>
+  </g>
+</svg>

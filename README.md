@@ -2,12 +2,10 @@
 
 Design-focused builder.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Affinity](https://hsiii-badges.vercel.app/badges/affinity.v1.svg)
-![Procreate](https://hsiii-badges.vercel.app/badges/procreate.v1.svg)
-![Codex](https://hsiii-badges.vercel.app/badges/codex.v1.svg)
+![TypeScript / JavaScript][languages-badge]
+![React / Vite / Bun][frontend-badge]
+![Figma / Affinity / Procreate][design-badge]
+![Codex / VS Code][editor-badge]
 
 ## Current Focus
 - Working with NTHU to modernize its academic information system
@@ -36,3 +34,8 @@ Design-focused builder.
 - [Sessatakuma](https://github.com/sessatakuma) Co-founder & Frontend Lead — Helping Japanese learners bridge the gap between studying and speaking.
 - [NTHU Student Association](https://github.com/NTHU-SA) Collaborator — Expanding ccxpLite toward broader campus adoption.
 - [Rosé Pine](https://github.com/rose-pine/vscode) Contributor — Contributing back to a theme ecosystem I use every day.
+
+[languages-badge]: https://hsiii-badges.vercel.app/badges/languages.v1.svg
+[frontend-badge]: https://hsiii-badges.vercel.app/badges/frontend.v1.svg
+[design-badge]: https://hsiii-badges.vercel.app/badges/design.v1.svg
+[editor-badge]: https://hsiii-badges.vercel.app/badges/editor.v1.svg

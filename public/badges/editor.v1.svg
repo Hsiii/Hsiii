@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="28" viewBox="0 0 92 28" role="img" aria-label="Codex swapping with VS Code">
+  <title>Codex / VS Code</title>
+  <style>
+    .stack { animation: swap-2 6s ease-in-out infinite; }
+    .slot text { font: 700 10px Verdana, Geneva, DejaVu Sans, sans-serif; text-rendering: geometricPrecision; }
+    .codex-bg { fill: #000; }
+    .vscode-bg { fill: #007acc; }
+    .ink { fill: #fff; }
+    @keyframes swap-2 {
+      0%, 40% { transform: translateY(0); }
+      50%, 90% { transform: translateY(-28px); }
+      100% { transform: translateY(-56px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .stack { animation: none; }
+      .slot:nth-child(n+2) { display: none; }
+    }
+  </style>
+  <clipPath id="badge-clip"><rect width="92" height="28"/></clipPath>
+  <g clip-path="url(#badge-clip)">
+  <g class="stack">
+    <g class="slot">
+      <rect class="codex-bg" width="92" height="28"/>
+      <text class="ink" x="16" y="18" text-anchor="middle">&gt;_</text>
+      <text class="ink" x="58" y="18" text-anchor="middle">CODEX</text>
+    </g>
+    <g class="slot" transform="translate(0 28)">
+      <rect class="vscode-bg" width="92" height="28"/>
+      <path class="ink" transform="translate(8 6) scale(.67)" d="M23.15 2.587 18.21.21a1.494 1.494 0 0 0-1.705.29l-9.46 8.63-4.12-3.128a.999.999 0 0 0-1.276.057L.327 7.261A1 1 0 0 0 .326 8.74L3.899 12 .326 15.26a1 1 0 0 0 .001 1.479L1.65 17.94a.999.999 0 0 0 1.276.057l4.12-3.128 9.46 8.63a1.492 1.492 0 0 0 1.704.29l4.942-2.377A1.5 1.5 0 0 0 24 20.06V3.939a1.5 1.5 0 0 0-.85-1.352zm-5.146 14.861L10.826 12l7.178-5.448v10.896z"/>
+      <text class="ink" x="58" y="18" text-anchor="middle">VS CODE</text>
+    </g>
+    <g class="slot" transform="translate(0 56)">
+      <rect class="codex-bg" width="92" height="28"/>
+      <text class="ink" x="16" y="18" text-anchor="middle">&gt;_</text>
+      <text class="ink" x="58" y="18" text-anchor="middle">CODEX</text>
+    </g>
+  </g>
+  </g>
+</svg>

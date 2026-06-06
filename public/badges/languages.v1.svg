@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="28" viewBox="0 0 128 28" role="img" aria-label="TypeScript swapping with JavaScript">
+  <title>TypeScript / JavaScript</title>
+  <style>
+    .stack { animation: swap-2 6s ease-in-out infinite; }
+    .slot text { font: 700 10px Verdana, Geneva, DejaVu Sans, sans-serif; text-rendering: geometricPrecision; }
+    .ts-bg { fill: #3178c6; }
+    .js-bg { fill: #f7df1e; }
+    .ink { fill: #fff; }
+    .dark { fill: #222; }
+    @keyframes swap-2 {
+      0%, 40% { transform: translateY(0); }
+      50%, 90% { transform: translateY(-28px); }
+      100% { transform: translateY(-56px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .stack { animation: none; }
+      .slot:nth-child(n+2) { display: none; }
+    }
+  </style>
+  <clipPath id="badge-clip"><rect width="128" height="28"/></clipPath>
+  <g clip-path="url(#badge-clip)">
+  <g class="stack">
+    <g class="slot">
+      <rect class="ts-bg" width="128" height="28"/>
+      <rect class="ink" x="8" y="6" width="16" height="16" rx="2" opacity=".18"/>
+      <text class="ink" x="16" y="18" text-anchor="middle" font-size="7">TS</text>
+      <text class="ink" x="78" y="18" text-anchor="middle">TYPESCRIPT</text>
+    </g>
+    <g class="slot" transform="translate(0 28)">
+      <rect class="js-bg" width="128" height="28"/>
+      <rect class="dark" x="8" y="6" width="16" height="16" rx="2" opacity=".14"/>
+      <text class="dark" x="16" y="18" text-anchor="middle" font-size="7">JS</text>
+      <text class="dark" x="78" y="18" text-anchor="middle">JAVASCRIPT</text>
+    </g>
+    <g class="slot" transform="translate(0 56)">
+      <rect class="ts-bg" width="128" height="28"/>
+      <rect class="ink" x="8" y="6" width="16" height="16" rx="2" opacity=".18"/>
+      <text class="ink" x="16" y="18" text-anchor="middle" font-size="7">TS</text>
+      <text class="ink" x="78" y="18" text-anchor="middle">TYPESCRIPT</text>
+    </g>
+  </g>
+  </g>
+</svg>
