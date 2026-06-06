@@ -20,6 +20,7 @@ Design-focused builder.
 - **[EZE3](https://github.com/Hsiii/EZE3)** — One-click NYCU Portal → E3 access with automated login and authenticator integration.
 - **[accent-marker](https://github.com/sessatakuma/accent-marker)** — Furigana & pitch-accent auto-marker for JP learners.
 - **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – Fastest way to start a front-end project.
+- **[fish-git-alias](https://github.com/Hsiii/fish-git-alias)** – An opinionated Git alias Fish config.
 - **[CodexMux](https://github.com/Hsiii/CodexMux)** — Track Codex usage across accounts and workspaces.
 - **[OnTrack](https://github.com/Hsiii/OnTrack)** — Train schedule app with auto-detected train routes and instant arrival checks.
 - **[Homepage](https://github.com/Hsiii/Homepage)** — Browser-agnostic bookmark access with hotkeys and instant search.
