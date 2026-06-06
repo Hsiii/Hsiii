@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="92" height="28" viewBox="0 0 92 28" role="img" aria-label="Codex swapping with VS Code">
   <title>Codex / VS Code</title>
   <style>
-    .stack { animation: swap-2 6s ease-in-out infinite; }
+    .stack { animation: swap-2 6s ease-in-out 2.25s infinite; }
     .slot text { font: 700 10px Verdana, Geneva, DejaVu Sans, sans-serif; text-rendering: geometricPrecision; }
     .codex-bg { fill: #000; }
     .vscode-bg { fill: #007acc; }

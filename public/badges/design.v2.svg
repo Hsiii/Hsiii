@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="124" height="28" viewBox="0 0 124 28" role="img" aria-label="Figma swapping with Affinity and Procreate">
   <title>Figma / Affinity / Procreate</title>
   <style>
-    .stack { animation: swap-3 9s ease-in-out infinite; }
+    .stack { animation: swap-3 9s ease-in-out 1.5s infinite; }
     .slot text { font: 700 10px Verdana, Geneva, DejaVu Sans, sans-serif; text-rendering: geometricPrecision; }
     .figma-bg { fill: #f24e1e; }
     .affinity-bg { fill: #a7f175; }

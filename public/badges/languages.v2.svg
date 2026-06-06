@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="28" viewBox="0 0 128 28" role="img" aria-label="TypeScript swapping with JavaScript">
   <title>TypeScript / JavaScript</title>
   <style>
-    .stack { animation: swap-2 6s ease-in-out infinite; }
+    .stack { animation: swap-2 6s ease-in-out 0s infinite; }
     .slot text { font: 700 10px Verdana, Geneva, DejaVu Sans, sans-serif; text-rendering: geometricPrecision; }
     .ts-bg { fill: #3178c6; }
     .js-bg { fill: #f7df1e; }
