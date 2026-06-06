@@ -35,7 +35,7 @@ Design-focused builder.
 - [NTHU Student Association](https://github.com/NTHU-SA) Collaborator — Expanding ccxpLite toward broader campus adoption.
 - [Rosé Pine](https://github.com/rose-pine/vscode) Contributor — Contributing back to a theme ecosystem I use every day.
 
-[languages-badge]: https://hsiii-badges.vercel.app/badges/languages.v2.svg
-[frontend-badge]: https://hsiii-badges.vercel.app/badges/frontend.v2.svg
-[design-badge]: https://hsiii-badges.vercel.app/badges/design.v2.svg
-[editor-badge]: https://hsiii-badges.vercel.app/badges/editor.v2.svg
+[languages-badge]: https://hsiii-badges.vercel.app/badges/languages.v3.svg
+[frontend-badge]: https://hsiii-badges.vercel.app/badges/frontend.v3.svg
+[design-badge]: https://hsiii-badges.vercel.app/badges/design.v3.svg
+[editor-badge]: https://hsiii-badges.vercel.app/badges/editor.v3.svg
