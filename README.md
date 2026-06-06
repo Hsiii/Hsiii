@@ -22,7 +22,7 @@ Design-focused builder.
 - **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – Fastest way to start a front-end project.
 - **[fish-git-alias](https://github.com/Hsiii/fish-git-alias)** – An opinionated Git alias Fish config.
 - **[CodexMux](https://github.com/Hsiii/CodexMux)** — Track Codex usage across accounts and workspaces.
-- **[OnTrack](https://github.com/Hsiii/OnTrack)** — Train schedule app with auto-detected train routes and instant arrival checks.
+- **[OnTrack](https://github.com/Hsiii/OnTrack)** —  A train app for people who are tired of using train apps. Zero-click arrival times.
 - **[Homepage](https://github.com/Hsiii/Homepage)** — Browser-agnostic bookmark access with hotkeys and instant search.
 - **[HandyTab](https://github.com/Hsiii/HandyTab)** — A handy way to open tabs.
 - **[Atomize](https://github.com/Hsiii/Atomize)** — A prime factorization PVP game.
