@@ -24,19 +24,19 @@
       <rect class="ts-bg" width="128" height="28"/>
       <rect class="ink" x="8" y="6" width="16" height="16" rx="2" opacity=".18"/>
       <text class="ink" x="16" y="18" text-anchor="middle" font-size="7">TS</text>
-      <text class="ink" x="78" y="18" text-anchor="middle">TYPESCRIPT</text>
+      <text class="ink" x="32" y="18" text-anchor="start">TYPESCRIPT</text>
     </g>
     <g class="slot" transform="translate(0 28)">
       <rect class="js-bg" width="128" height="28"/>
       <rect class="dark" x="8" y="6" width="16" height="16" rx="2" opacity=".14"/>
       <text class="dark" x="16" y="18" text-anchor="middle" font-size="7">JS</text>
-      <text class="dark" x="78" y="18" text-anchor="middle">JAVASCRIPT</text>
+      <text class="dark" x="32" y="18" text-anchor="start">JAVASCRIPT</text>
     </g>
     <g class="slot" transform="translate(0 56)">
       <rect class="ts-bg" width="128" height="28"/>
       <rect class="ink" x="8" y="6" width="16" height="16" rx="2" opacity=".18"/>
       <text class="ink" x="16" y="18" text-anchor="middle" font-size="7">TS</text>
-      <text class="ink" x="78" y="18" text-anchor="middle">TYPESCRIPT</text>
+      <text class="ink" x="32" y="18" text-anchor="start">TYPESCRIPT</text>
     </g>
   </g>
   </g>
