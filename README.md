@@ -31,9 +31,9 @@ Design-focused builder.
 
 ## Experience
 - Microsoft Frontend Intern — Shipped production features for Azure Content Understanding Studio.
-- [Sessatakuma](https://github.com/sessatakuma) Co-founder & Frontend Lead — Helping Japanese learners bridge the gap between studying and speaking.
-- [NTHU Student Association](https://github.com/NTHU-SA) Collaborator — Expanding ccxpLite toward broader campus adoption.
-- [Rosé Pine](https://github.com/rose-pine/vscode) Contributor — Contributing back to a theme ecosystem I use every day.
+- Sessatakuma Co-founder & Frontend Lead — Helping Japanese learners bridge the gap between studying and speaking.
+- NTHU Student Association Collaborator — Expanding ccxpLite toward broader campus adoption.
+- Rosé Pine Contributor — Contributing back to a theme ecosystem I use every day.
 
 [languages-badge]: https://hsiii-badges.vercel.app/badges/languages.v8.svg
 [frontend-badge]: https://hsiii-badges.vercel.app/badges/frontend.v9.svg
