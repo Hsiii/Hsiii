@@ -3,7 +3,7 @@
 Design-focused builder.
 
 ![TypeScript / JavaScript][languages-badge]
-![React / Vite / Bun][frontend-badge]
+![React / Vite / Next.js][frontend-badge]
 ![Figma / Affinity / Procreate][design-badge]
 ![Codex / VS Code][editor-badge]
 
@@ -36,6 +36,6 @@ Design-focused builder.
 - [Rosé Pine](https://github.com/rose-pine/vscode) Contributor — Contributing back to a theme ecosystem I use every day.
 
 [languages-badge]: https://hsiii-badges.vercel.app/badges/languages.v8.svg
-[frontend-badge]: https://hsiii-badges.vercel.app/badges/frontend.v8.svg
+[frontend-badge]: https://hsiii-badges.vercel.app/badges/frontend.v9.svg
 [design-badge]: https://hsiii-badges.vercel.app/badges/design.v8.svg
 [editor-badge]: https://hsiii-badges.vercel.app/badges/editor.v8.svg
