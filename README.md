@@ -14,7 +14,7 @@ Design-focused builder.
 
 ## Things I've built
 ### For Student & Leaners
-- **[accent-marker](https://github.com/sessatakuma/accent-marker)** — Furigana & pitch-accent auto-marking tool for JP learners.
+- **[AkuMa](https://github.com/sessatakuma/AkuMa)** — Furigana & pitch-accent auto-marking tool for JP learners.
 - **[ccxpLite](https://github.com/Hsiii/ccxpLite)** — A faster, cleaner experience for the NTHU Academic Information System.
 - **[ccxpDecaptcha](https://github.com/Hsiii/ccxpDecaptcha)** — Training suite for NTHU CCXP & OAuth OCR decaptcha models.
 - **[EZE3](https://github.com/Hsiii/EZE3)** — One-click NYCU Portal → E3 access with automated login and authenticator integration.
