@@ -7,13 +7,13 @@ Design-focused builder.
 ![Figma / Affinity / Procreate][design-badge]
 ![Codex / VS Code][editor-badge]
 
-## Current Focus
+## Currently
 - Working with NTHU to modernize its academic information system
 - Building Japanese-learning tools at Sessatakuma
 - Shipping increasingly niche and questionable tools
 
-## Things I've built
-### For Student & Leaners
+## Projects
+### For Student & Learners
 - **[AkuMa](https://github.com/sessatakuma/AkuMa)** — Furigana & pitch-accent auto-marking tool for JP learners.
 - **[ccxpLite](https://github.com/Hsiii/ccxpLite)** — A faster, cleaner experience for the NTHU Academic Information System.
 - **[ccxpDecaptcha](https://github.com/Hsiii/ccxpDecaptcha)** — Training suite for NTHU CCXP & OAuth OCR decaptcha models.
