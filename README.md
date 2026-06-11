@@ -19,7 +19,7 @@ Design-focused builder.
 - **[ccxp-decaptcha](https://github.com/Hsiii/ccxp-decaptcha)** — Training suite for NTHU CCXP & OAuth OCR decaptcha models.
 - **[EZE3](https://github.com/Hsiii/EZE3)** — One-click NYCU Portal → E3 access with automated login and authenticator integration.
 ### For Devs
-- **[comux](https://github.com/Hsiii/comux)** — Track Codex usage across accounts and workspaces.
+- **[Comux](https://github.com/Hsiii/comux)** — Track Codex usage across accounts and workspaces.
 - **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – Fastest way to start a front-end project.
 - **[fish-git-alias](https://github.com/Hsiii/fish-git-alias)** – An opinionated Git alias Fish config.
 ### Because I Was Lazy
