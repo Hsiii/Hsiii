@@ -26,6 +26,8 @@ Design-focused builder.
 - **[OnTrack](https://github.com/Hsiii/OnTrack)** — A train app for people who are tired of using train apps — check train status with zero taps.
 - **[Homepage](https://github.com/Hsiii/Homepage)** — Browser-agnostic bookmark access with hotkeys and instant search.
 - **[HandyTab](https://github.com/Hsiii/HandyTab)** — A handy way to open tabs.
+- **[JaCarda](https://github.com/sessatakuma/JaCarda)** — Create Japanese word cards in one click.
+
 ### Just Because
 - **[Atomize](https://github.com/Hsiii/Atomize)** — A prime factorization PVP game.
 
