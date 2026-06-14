@@ -37,7 +37,7 @@ Design-focused builder.
 - NTHU Student Association Collaborator — Expanding ccxpLite toward broader campus adoption.
 - Rosé Pine Contributor — Contributing back to a theme ecosystem I use every day.
 
-[languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/public/badges/languages.v8.svg
-[frontend-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/public/badges/frontend.v9.svg
-[design-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/public/badges/design.v8.svg
-[editor-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/public/badges/editor.v8.svg
+[languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/languages.v8.svg
+[frontend-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/frontend.v9.svg
+[design-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/design.v8.svg
+[editor-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/editor.v8.svg
