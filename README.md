@@ -7,11 +7,6 @@ Design-focused builder.
 ![React / Vite / Next.js][frontend-badge]
 ![Codex / VS Code][editor-badge]
 
-## Currently
-- Working with NTHU to modernize its academic information system
-- Building Japanese-learning tools at Sessatakuma
-- Shipping increasingly niche and questionable tools
-
 ## Projects
 ### Better Campus Systems
 - **[ccxpLite](https://github.com/Hsiii/ccxpLite)** — A faster, cleaner experience for the NTHU Academic Information System.
