@@ -2,9 +2,9 @@
 
 Design-focused builder.
 
+![Figma / Affinity / Procreate][design-badge]
 ![TypeScript / JavaScript][languages-badge]
 ![React / Vite / Next.js][frontend-badge]
-![Figma / Affinity / Procreate][design-badge]
 ![Codex / VS Code][editor-badge]
 
 ## Currently
