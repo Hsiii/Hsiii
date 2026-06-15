@@ -20,10 +20,11 @@ Design-focused builder.
 ### Japanese Learning Tools
 - **[AkuMa](https://github.com/sessatakuma/AkuMa)** — Furigana & pitch-accent auto-marking tool for JP learners.
 - **[JaCarda](https://github.com/sessatakuma/JaCarda)** — Create Japanese word cards in one click.
-### Dev Tools
+### Dev Setup
 - **[Comux](https://github.com/Hsiii/comux)** — Track Codex usage across accounts and workspaces.
 - **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – Fastest way to start a front-end project.
 - **[fish-git-alias](https://github.com/Hsiii/fish-git-alias)** – An opinionated Git alias Fish config.
+- **[AGENTS.md](https://github.com/Hsiii/AGENTS.md)** – My AGENTS.md, optimized for frontend development with GPT 5.5 in Codex.
 ### Built for Speed
 - **[OnTrack](https://github.com/Hsiii/OnTrack)** — A train app for people who are tired of using train apps — check train status with zero taps.
 - **[Homepage](https://github.com/Hsiii/Homepage)** — Browser-agnostic bookmark access with hotkeys and instant search.
