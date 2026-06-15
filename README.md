@@ -21,8 +21,8 @@ Design-focused builder.
 - **[AkuMa](https://github.com/sessatakuma/AkuMa)** — Furigana & pitch-accent auto-marking tool for JP learners.
 - **[JaCarda](https://github.com/sessatakuma/JaCarda)** — Create Japanese word cards in one click.
 ### Dev Setup
-- **[Comux](https://github.com/Hsiii/comux)** — Track Codex usage across accounts and workspaces.
 - **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – Fastest way to start a front-end project.
+- **[Comux](https://github.com/Hsiii/comux)** — Track Codex usage across accounts and workspaces.
 - **[fish-git-alias](https://github.com/Hsiii/fish-git-alias)** – An opinionated Git alias Fish config.
 - **[AGENTS.md](https://github.com/Hsiii/AGENTS.md)** – My AGENTS.md, optimized for frontend development with GPT 5.5 in Codex.
 ### Built for Speed
