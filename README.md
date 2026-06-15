@@ -15,7 +15,7 @@ Design-focused builder.
 - **[ccxpLite](https://github.com/Hsiii/ccxpLite)** — A faster, cleaner experience for the NTHU Academic Information System.
 - **[ccxp-decaptcha](https://github.com/Hsiii/ccxp-decaptcha)** — Training suite for NTHU CCXP & OAuth OCR decaptcha models.
 - **[EZE3](https://github.com/Hsiii/EZE3)** — NYCU Portal → E3 access with automated login and authenticator integration.
-- ### Built for Speed
+### Apps Built for Speed
 - **[OnTrack](https://github.com/Hsiii/OnTrack)** — A train app for people who are tired of using train apps — check train status with zero taps.
 - **[Homepage](https://github.com/Hsiii/Homepage)** — A browser homepage providing browser-agnostic bookmark access with hotkeys and instant search.
 - **[HandyTab](https://github.com/Hsiii/HandyTab)** — A handy way to open browser tabs – just wave hi to your webcam.
