@@ -20,7 +20,7 @@ Design-focused builder.
 - **[Homepage](https://github.com/Hsiii/Homepage)** — A browser homepage providing browser-agnostic bookmark access with hotkeys and instant search.
 - **[HandyTab](https://github.com/Hsiii/HandyTab)** — A handy way to open browser tabs – just wave hi to your webcam.
 ### Dev Setup
-- **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – The fastest way to start building a Vite/Next.js app with tooling and best practices.
+- **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – The fastest way to start building a Vite/Next.js app with best practices.
 - **[Comux](https://github.com/Hsiii/comux)** — Track Codex usage across accounts and workspaces.
 - **[fish-git-alias](https://github.com/Hsiii/fish-git-alias)** – An opinionated Git alias Fish config.
 - **[AGENTS.md](https://github.com/Hsiii/AGENTS.md)** – My AGENTS.md, optimized for fast-paced frontend development with GPT 5.5 in Codex.
