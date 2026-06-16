@@ -18,12 +18,13 @@ Design-focused builder.
 ### Apps Built for Speed
 - **[OnTrack](https://github.com/Hsiii/OnTrack)** — A train app for people who are tired of using train apps — check train status with zero taps.
 - **[Homepage](https://github.com/Hsiii/Homepage)** — A browser homepage providing browser-agnostic bookmark access with hotkeys and instant search.
-- **[HandyTab](https://github.com/Hsiii/HandyTab)** — A handy way to open browser tabs – just wave hi to your webcam.
+- **[HandyTab](https://github.com/Hsiii/HandyTab)** — A handy way to open browser tabs — just wave hi to your webcam.
 ### Dev Setup
 - **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – The fastest way to start building a Vite/Next.js app with best practices.
 - **[Comux](https://github.com/Hsiii/comux)** — Track Codex usage across accounts and workspaces.
 - **[fish-git-alias](https://github.com/Hsiii/fish-git-alias)** – An opinionated Git alias Fish config.
 - **[AGENTS.md](https://github.com/Hsiii/AGENTS.md)** – My AGENTS.md, optimized for fast-paced frontend development with GPT 5.5 in Codex.
+- **[dotfiles](https://github.com/Hsiii/dotfiles)** – Trying to make Vim VsCode so I never need to leave the Codex app.
 ### Games
 - **[Atomize](https://github.com/Hsiii/Atomize)** — A prime factorization PVP game – outsmart your opponents in gloriously nerdy number battles.
 
