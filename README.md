@@ -5,7 +5,6 @@ Design-focused builder.
 ![Figma / Affinity / Procreate][design-badge]
 ![TypeScript / JavaScript][languages-badge]
 ![React / Vite / Next.js][frontend-badge]
-![Codex / VS Code][editor-badge]
 
 ## Projects
 ### Japanese Learning Tools
@@ -38,4 +37,3 @@ Design-focused builder.
 [languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/lang.v9.svg
 [frontend-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/frontend.v10.svg
 [design-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/design.v9.svg
-[editor-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/editor.v10.svg
