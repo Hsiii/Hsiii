@@ -2,9 +2,9 @@
 
 Design-focused builder.
 
-![Figma / Affinity / Procreate][design-badge]
-![TypeScript / JavaScript][languages-badge]
-![React / Vite / Next.js][frontend-badge]
+![design][design-badge]
+![languages][languages-badge]
+![frontend][frontend-badge]
 
 ## Projects
 ### Japanese Learning Tools
@@ -34,6 +34,6 @@ Design-focused builder.
 - Open Source Contributor — Contributed to [Lucide](https://github.com/lucide-icons/lucide), [Svgl](https://github.com/Hsiii/svgl), and [Rosé Pine](https://github.com/rose-pine/vscode).
 - NTHU Student Association Collaborator — Expanding ccxpLite toward broader campus adoption.
 
-[languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/lang.v9.svg
-[frontend-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/frontend.v10.svg
-[design-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/design.v9.svg
+[design-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/design.svg
+[languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/lang.svg
+[frontend-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/frontend.svg
