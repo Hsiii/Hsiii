@@ -15,8 +15,8 @@ Design-focused builder.
 - **[ccxp-decaptcha](https://github.com/Hsiii/ccxp-decaptcha)** — Training suite for NTHU CCXP & OAuth OCR decaptcha models.
 - **[EZE3](https://github.com/Hsiii/EZE3)** — NYCU Portal → E3 access with automated login and authenticator integration.
 ### Apps Built for Speed
-- **[OnTrack](https://github.com/Hsiii/OnTrack)** — A train app for people who are tired of using train apps — check train status with zero taps.
-- **[Homepage](https://github.com/Hsiii/Homepage)** — A browser homepage providing browser-agnostic bookmark access with hotkeys and instant search.
+- **[OnTrack](https://github.com/Hsiii/OnTrack)** — A train app built for speed and simplicity — check train status with zero taps.
+- **[Homepage](https://github.com/Hsiii/Homepage)** — Fast bookmark access across browsers with instant search and jump.
 - **[HandyTab](https://github.com/Hsiii/HandyTab)** — A handy way to open browser tabs — just wave hi to your webcam.
 ### Dev Setup
 - **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – The fastest way to start building a Vite/Next.js app with best practices.
@@ -26,7 +26,7 @@ Design-focused builder.
 - **[dotfiles](https://github.com/Hsiii/dotfiles)** – Trying to make Vim VsCode so I never need to leave the Codex app.
 ### Random Stuff
 - **[Badgical](https://github.com/Hsiii/Badgical)** — Make your README badges come to life.
-- **[Atomize](https://github.com/Hsiii/Atomize)** — A prime factorization PVP game – outsmart your opponents in gloriously nerdy number battles.
+- **[Atomize](https://github.com/Hsiii/Atomize)** — A prime factorization PVP game – outsmart your opponents in nerdy number battles.
 
 ## Experience
 - Sessatakuma Co-founder & Frontend Lead — Helping Japanese learners bridge the gap between studying and speaking.
