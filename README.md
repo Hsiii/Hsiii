@@ -25,7 +25,8 @@ Design-focused builder.
 - **[fish-git-alias](https://github.com/Hsiii/fish-git-alias)** – An opinionated Git alias Fish config.
 - **[AGENTS.md](https://github.com/Hsiii/AGENTS.md)** – My AGENTS.md, optimized for fast-paced frontend development with GPT 5.5 in Codex.
 - **[dotfiles](https://github.com/Hsiii/dotfiles)** – Trying to make Vim VsCode so I never need to leave the Codex app.
-### Games
+### Random Stuff
+- **[Badgical](https://github.com/Hsiii/Badgical)** — Make your README badges come to life.
 - **[Atomize](https://github.com/Hsiii/Atomize)** — A prime factorization PVP game – outsmart your opponents in gloriously nerdy number battles.
 
 ## Experience
