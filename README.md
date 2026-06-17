@@ -36,6 +36,6 @@ Design-focused builder.
 - NTHU Student Association Collaborator — Expanding ccxpLite toward broader campus adoption.
 
 [languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/lang.v9.svg
-[frontend-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/frontend.v9.svg
+[frontend-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/frontend.v10.svg
 [design-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/design.v9.svg
-[editor-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/editor.v9.svg
+[editor-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/editor.v10.svg
