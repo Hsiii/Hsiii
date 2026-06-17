@@ -35,7 +35,7 @@ Design-focused builder.
 - Open Source Contributor — Contributed to [Lucide](https://github.com/lucide-icons/lucide), [Svgl](https://github.com/Hsiii/svgl), and [Rosé Pine](https://github.com/rose-pine/vscode).
 - NTHU Student Association Collaborator — Expanding ccxpLite toward broader campus adoption.
 
-[languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/languages.v8.svg
+[languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/lang.v9.svg
 [frontend-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/frontend.v9.svg
-[design-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/design.v8.svg
-[editor-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/editor.v8.svg
+[design-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/design.v9.svg
+[editor-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/editor.v9.svg
