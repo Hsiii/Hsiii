@@ -22,7 +22,7 @@ Design-focused builder.
 - **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – The fastest way to start building a Vite/Next.js app with best practices.
 - **[Comux](https://github.com/Hsiii/comux)** — Track Codex usage across accounts and workspaces.
 - **[fish-git-alias](https://github.com/Hsiii/fish-git-alias)** – An opinionated Git alias Fish config.
-- **[AGENTS.md](https://github.com/Hsiii/AGENTS.md)** – My AGENTS.md, optimized for fast-paced frontend development with GPT 5.5 in Codex.
+- **[AGENTS.md](https://github.com/Hsiii/AGENTS.md)** – Minimal prompt optimized for frontend development with GPT 5.5 in Codex.
 - **[dotfiles](https://github.com/Hsiii/dotfiles)** – Trying to make Vim VsCode so I never need to leave the Codex app.
 ### Random Stuff
 - **[Badgical](https://github.com/Hsiii/Badgical)** — Make your README badges come to life.
