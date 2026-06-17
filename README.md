@@ -31,7 +31,7 @@ Design-focused builder.
 ## Experience
 - Sessatakuma Co-founder & Frontend Lead — Helping Japanese learners bridge the gap between studying and speaking.
 - Microsoft Frontend Intern — Shipped production features for Azure Content Understanding Studio.
-- Open Source Contributor — Contributed to [Lucide](https://github.com/lucide-icons/lucide) and [Rosé Pine](https://github.com/rose-pine/vscode).
+- Open Source Contributor — Contributed to [Lucide](https://github.com/lucide-icons/lucide), [Svgl](https://github.com/Hsiii/svgl), and [Rosé Pine](https://github.com/rose-pine/vscode).
 - NTHU Student Association Collaborator — Expanding ccxpLite toward broader campus adoption.
 
 [languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/languages.v8.svg
