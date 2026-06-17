@@ -29,10 +29,10 @@ Design-focused builder.
 - **[Atomize](https://github.com/Hsiii/Atomize)** — A prime factorization PVP game – outsmart your opponents in gloriously nerdy number battles.
 
 ## Experience
-- Microsoft Frontend Intern — Shipped production features for Azure Content Understanding Studio.
 - Sessatakuma Co-founder & Frontend Lead — Helping Japanese learners bridge the gap between studying and speaking.
+- Microsoft Frontend Intern — Shipped production features for Azure Content Understanding Studio.
+- Open Source Contributor — Contributed to [Lucide](https://github.com/lucide-icons/lucide) and [Rosé Pine](https://github.com/rose-pine/vscode).
 - NTHU Student Association Collaborator — Expanding ccxpLite toward broader campus adoption.
-- Rosé Pine Contributor — Contributing back to a theme ecosystem I use every day.
 
 [languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/languages.v8.svg
 [frontend-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/badges/frontend.v9.svg
