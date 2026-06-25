@@ -18,12 +18,14 @@ Design-focused builder.
 - **[OnTrack](https://github.com/Hsiii/OnTrack)** — A train app built for speed and simplicity — check train status with zero taps.
 - **[Homepage](https://github.com/Hsiii/Homepage)** — Fast bookmark access across browsers with instant search and jump.
 - **[HandyTab](https://github.com/Hsiii/HandyTab)** — A handy way to open browser tabs — just wave hi to your webcam.
-### Dev Setup
+### For Devs
 - **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – The fastest way to start building a Vite/Next.js app with best practices.
 - **[Comux](https://github.com/Hsiii/comux)** — Track Codex usage across accounts and workspaces.
-- **[fish-git-alias](https://github.com/Hsiii/fish-git-alias)** – An opinionated Git alias Fish config.
-- **[AGENTS.md](https://github.com/Hsiii/AGENTS.md)** – Minimal prompt optimized for frontend development with GPT 5.5 in Codex.
 - **[human-out-of-loop](https://github.com/Hsiii/human-out-of-loop)** – Skills curated for Codex app for less human-in-the-loop.
+### Dev Setup
+- **[fish-git-alias](https://github.com/Hsiii/fish-git-alias)** – An opinionated Git alias Fish config.
+- **[fish-alias](https://github.com/Hsiii/fish-alias)** – Random personal aliases to save me sometime typing.
+- **[AGENTS.md](https://github.com/Hsiii/AGENTS.md)** – Minimal prompt optimized for frontend development with GPT 5.5 in Codex.
 - **[dotfiles](https://github.com/Hsiii/dotfiles)** – Trying to make Vim VsCode so I never need to leave the Codex app.
 ### Random Stuff
 - **[Badgical](https://github.com/Hsiii/Badgical)** — Make your README badges come to life.
