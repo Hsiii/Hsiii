@@ -21,16 +21,16 @@ Design-focused builder.
 ### For Devs
 - **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – The fastest way to start building a Vite/Next.js app with best practices.
 - **[Comux](https://github.com/Hsiii/comux)** — Track Codex usage across accounts and workspaces.
+- **[Badgical](https://github.com/Hsiii/Badgical)** — Make your README badges come to life.
 - **[human-out-of-loop](https://github.com/Hsiii/human-out-of-loop)** – Skills curated for Codex app for less human-in-the-loop.
 ### Dev Setup
 - **[fish-git-alias](https://github.com/Hsiii/fish-git-alias)** – An opinionated Git alias Fish config.
 - **[fish-alias](https://github.com/Hsiii/fish-alias)** – Random personal aliases to save me sometime typing.
 - **[AGENTS.md](https://github.com/Hsiii/AGENTS.md)** – Minimal prompt optimized for frontend development with GPT 5.5 in Codex.
 - **[dotfiles](https://github.com/Hsiii/dotfiles)** – Trying to make Vim VsCode so I never need to leave the Codex app.
-### Random Stuff
-- **[Badgical](https://github.com/Hsiii/Badgical)** — Make your README badges come to life.
+### Misc
 - **[Atomize](https://github.com/Hsiii/Atomize)** — A prime factorization PVP game – outsmart your opponents in nerdy number battles.
-
+- **[WM31Bot](https://github.com/Hsiii/WM31Bot)** – Make it easier for me to send reels to my friends in Discord.
 ## Experience
 - Sessatakuma Co-founder & Frontend Lead — Helping Japanese learners bridge the gap between studying and speaking.
 - Microsoft Frontend Intern — Shipped production features for Azure Content Understanding Studio.
