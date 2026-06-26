@@ -39,7 +39,7 @@ Design-focused builder.
 - **[WM31Bot](https://github.com/Hsiii/WM31Bot)** – Make Instagram Reels preview properly in Discord.
 
 ## Experience
-- Microsoft Frontend Intern — Shipped production features for [Azure CU](https://contentunderstanding.ai.azure.com/home), improving UI/UX, a11y, and performance.
+- Microsoft Frontend Intern — Shipped production features and UX/accessibility improvements for [Azure CU](https://contentunderstanding.ai.azure.com/home).
 
 [design-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/design.svg
 [languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/lang.svg
