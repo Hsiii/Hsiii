@@ -6,36 +6,40 @@ Design-focused builder.
 ![languages][languages-badge]
 ![frontend][frontend-badge]
 
-## Projects
+## What I'm doing
+- Designing and building tools that make everyday tasks easier.
+- Contributing to open source projects I love — [Lucide](https://github.com/lucide-icons/lucide), [Svgl](https://github.com/Hsiii/svgl), and [Rosé Pine](https://github.com/rose-pine/vscode).
+- Working with NTHU CCC to modernize the NTHU Academic Information System experience.
+- Building tools at Sessatakuma to help Japanese learners bridge the gap between studying and speaking.
+
+## Current Projects
+
+### Speed First
+- **[OnTrack](https://github.com/Hsiii/OnTrack)** — Check train status with zero taps.
+- **[Homepage](https://github.com/Hsiii/Homepage)** — Cross-browser, keyboard-first bookmark launcher.
+- **[HandyTab](https://github.com/Hsiii/HandyTab)** — Open your most-used browser tabs instantly.
+
+### Better Campus Systems
+- **[ccxpLite](https://github.com/Hsiii/ccxpLite)** — A faster, cleaner NTHU Academic Information System (150+ users).
+- **[ccxp-decaptcha](https://github.com/Hsiii/ccxp-decaptcha)** — Train OCR models for NTHU CCXP and OAuth captchas.
+- **[EZE3](https://github.com/Hsiii/EZE3)** — One-click access from NYCU Portal to E3.
+
 ### Japanese Learning Tools
 - **[AkuMa](https://github.com/sessatakuma/AkuMa)** — Japanese pitch-accent & furigana auto-marking tool.
-- **[JaCarda](https://github.com/sessatakuma/JaCarda)** — Create Japanese word cards from Google Sheet data in one click.
-### Better Campus Systems
-- **[ccxpLite](https://github.com/Hsiii/ccxpLite)** — A faster, cleaner experience for the NTHU Academic Information System.
-- **[ccxp-decaptcha](https://github.com/Hsiii/ccxp-decaptcha)** — Training suite for NTHU CCXP & OAuth OCR decaptcha models.
-- **[EZE3](https://github.com/Hsiii/EZE3)** — NYCU Portal → E3 access with automated login and authenticator integration.
-### Apps Built for Speed
-- **[OnTrack](https://github.com/Hsiii/OnTrack)** — A train app built for speed and simplicity — check train status with zero taps.
-- **[Homepage](https://github.com/Hsiii/Homepage)** — Fast bookmark access across browsers with instant search and jump.
-- **[HandyTab](https://github.com/Hsiii/HandyTab)** — A handy way to open your most-used browser tabs.
+- **[JaCarda](https://github.com/sessatakuma/JaCarda)** — Create Japanese vocabulary cards in one click.
+
 ### For Devs
-- **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – The fastest way to start building a Vite/Next.js app with best practices.
+- **[Badgical](https://github.com/Hsiii/Badgical)** — Bring your README badges to life.
+- **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – Kickstart a Vite/Next.js app with best practices.
 - **[Comux](https://github.com/Hsiii/comux)** — Track Codex usage across accounts and workspaces.
-- **[Badgical](https://github.com/Hsiii/Badgical)** — Make your README badges come to life.
-- **[human-out-of-loop](https://github.com/Hsiii/human-out-of-loop)** – Skills curated for Codex app for less human-in-the-loop.
-### Dev Setup
-- **[fish-git-alias](https://github.com/Hsiii/fish-git-alias)** – An opinionated Git alias Fish config.
-- **[fish-alias](https://github.com/Hsiii/fish-alias)** – Random personal aliases to save me sometime typing.
-- **[AGENTS.md](https://github.com/Hsiii/AGENTS.md)** – Minimal prompt optimized for frontend development with GPT 5.5 in Codex.
-- **[dotfiles](https://github.com/Hsiii/dotfiles)** – Trying to make Vim VsCode so I never need to leave the Codex app.
+- **[human-out-of-loop](https://github.com/Hsiii/human-out-of-loop)** – Skills curated for Codex app for autonomous workflows.
+
 ### Misc
-- **[Atomize](https://github.com/Hsiii/Atomize)** — A prime factorization PVP game – outsmart your opponents in nerdy number battles.
-- **[WM31Bot](https://github.com/Hsiii/WM31Bot)** – Make it easier for me to send reels to my friends in Discord.
+- **[Atomize](https://github.com/Hsiii/Atomize)** — Outsmart your opponents in nerdy prime factorization battles.
+- **[WM31Bot](https://github.com/Hsiii/WM31Bot)** – Make Instagram Reels preview properly in Discord.
+
 ## Experience
-- Sessatakuma Co-founder & Frontend Lead — Helping Japanese learners bridge the gap between studying and speaking.
-- Microsoft Frontend Intern — Shipped production features for Azure Content Understanding Studio.
-- Open Source Contributor — Contributed to [Lucide](https://github.com/lucide-icons/lucide), [Svgl](https://github.com/Hsiii/svgl), and [Rosé Pine](https://github.com/rose-pine/vscode).
-- NTHU Student Association Collaborator — Expanding ccxpLite toward broader campus adoption.
+- Microsoft Frontend Intern — Shipped production features for [Azure CU](https://contentunderstanding.ai.azure.com/home), improving UI/UX, a11y, and performance.
 
 [design-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/design.svg
 [languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/lang.svg
