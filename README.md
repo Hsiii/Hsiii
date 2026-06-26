@@ -17,7 +17,7 @@ Design-focused builder.
 ### Apps Built for Speed
 - **[OnTrack](https://github.com/Hsiii/OnTrack)** — A train app built for speed and simplicity — check train status with zero taps.
 - **[Homepage](https://github.com/Hsiii/Homepage)** — Fast bookmark access across browsers with instant search and jump.
-- **[HandyTab](https://github.com/Hsiii/HandyTab)** — A handy way to open browser tabs — just wave hi to your webcam.
+- **[HandyTab](https://github.com/Hsiii/HandyTab)** — A handy way to open your most-used browser tabs.
 ### For Devs
 - **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – The fastest way to start building a Vite/Next.js app with best practices.
 - **[Comux](https://github.com/Hsiii/comux)** — Track Codex usage across accounts and workspaces.
