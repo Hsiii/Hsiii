@@ -15,28 +15,28 @@ Design-focused builder.
 ## Current Projects
 
 ### Speed First
-- **[OnTrack](https://github.com/Hsiii/OnTrack)** — Check train status with zero taps.
-- **[Homepage](https://github.com/Hsiii/Homepage)** — Cross-browser, keyboard-first bookmark launcher.
-- **[HandyTab](https://github.com/Hsiii/HandyTab)** — Open your most-used browser tabs instantly.
+- **[OnTrack][OnTrack]** — Check train status with zero taps.
+- **[Homepage][Homepage]** — Cross-browser, keyboard-first bookmark launcher.
+- **[HandyTab][HandyTab]** — Open your most-used browser tabs instantly.
 
 ### Better Campus Systems
-- **[ccxpLite](https://github.com/Hsiii/ccxpLite)** — A faster, cleaner NTHU Academic Information System (150+ users).
-- **[ccxp-decaptcha](https://github.com/Hsiii/ccxp-decaptcha)** — Train OCR models for NTHU CCXP and OAuth captchas.
-- **[EZE3](https://github.com/Hsiii/EZE3)** — One-click access from NYCU Portal to E3.
+- **[ccxpLite][ccxpLite]** — A faster, cleaner NTHU Academic Information System (150+ users).
+- **[ccxp-decaptcha][ccxp-decaptcha]** — Train OCR models for NTHU CCXP and OAuth captchas.
+- **[EZE3][EZE3]** — One-click access from NYCU Portal to E3.
 
 ### Japanese Learning Tools
-- **[AkuMa](https://github.com/sessatakuma/AkuMa)** — Japanese pitch-accent & furigana auto-marking tool.
-- **[JaCarda](https://github.com/sessatakuma/JaCarda)** — Create Japanese vocabulary cards in one click.
+- **[AkuMa][AkuMa]** — Japanese pitch-accent & furigana auto-marking tool.
+- **[JaCarda][JaCarda]** — Create Japanese vocabulary cards in one click.
 
 ### For Devs
-- **[Badgical](https://github.com/Hsiii/Badgical)** — Bring your README badges to life.
-- **[create-hsi-app](https://github.com/Hsiii/create-hsi-app)** – Kickstart a Vite/Next.js app with best practices.
-- **[Comux](https://github.com/Hsiii/comux)** — Track Codex usage across accounts and workspaces.
-- **[human-out-of-loop](https://github.com/Hsiii/human-out-of-loop)** – Skills curated for Codex app for autonomous workflows.
+- **[Badgical][Badgical]** — Bring your README badges to life.
+- **[create-hsi-app][create-hsi-app]** – Kickstart a Vite/Next.js app with best practices.
+- **[Comux][Comux]** — Track Codex usage across accounts and workspaces.
+- **[human-out-of-loop][human-out-of-loop]** – Skills curated for Codex app for autonomous workflows.
 
 ### Misc
-- **[Atomize](https://github.com/Hsiii/Atomize)** — Outsmart your opponents in nerdy prime factorization battles.
-- **[WM31Bot](https://github.com/Hsiii/WM31Bot)** – Make Instagram Reels preview properly in Discord.
+- **[Atomize][Atomize]** — Outsmart your opponents in nerdy prime factorization battles.
+- **[WM31Bot][WM31Bot]** – Make Instagram Reels preview properly in Discord.
 
 ## Experience
 - Microsoft Frontend Intern — Shipped production features and UX/accessibility improvements for [Azure CU][Azure CU].
@@ -48,5 +48,20 @@ Design-focused builder.
 [Lucide]: https://github.com/lucide-icons/lucide
 [Svgl]: https://github.com/pheralb/svgl
 [Rosé Pine]: https://github.com/rose-pine/vscode
+
+[OnTrack]: https://github.com/Hsiii/OnTrack
+[Homepage]: https://github.com/Hsiii/Homepage
+[HandyTab]: https://github.com/Hsiii/HandyTab
+[ccxpLite]: https://github.com/Hsiii/ccxpLite
+[ccxp-decaptcha]: https://github.com/Hsiii/ccxp-decaptcha
+[EZE3]: https://github.com/Hsiii/EZE3
+[AkuMa]: https://github.com/sessatakuma/AkuMa
+[JaCarda]: https://github.com/sessatakuma/JaCarda
+[Badgical]: https://github.com/Hsiii/Badgical
+[create-hsi-app]: https://github.com/Hsiii/create-hsi-app
+[Comux]: https://github.com/Hsiii/comux
+[human-out-of-loop]: https://github.com/Hsiii/human-out-of-loop
+[Atomize]: https://github.com/Hsiii/Atomize
+[WM31Bot]: https://github.com/Hsiii/WM31Bot
 
 [Azure CU]: https://contentunderstanding.ai.azure.com/home
