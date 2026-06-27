@@ -8,9 +8,9 @@ Design-focused builder.
 
 ## What I'm doing
 - Designing and building tools that make everyday tasks easier.
-- Contributing to open source projects I love — [Lucide](https://github.com/lucide-icons/lucide), [Svgl](https://github.com/Hsiii/svgl), and [Rosé Pine](https://github.com/rose-pine/vscode).
+- Contributing to open source projects I love — [Lucide][Lucide], [Svgl][Svgl], and [Rosé Pine][Rosé Pine].
 - Working with NTHU CCC to modernize the NTHU Academic Information System experience.
-- Building tools at Sessatakuma to help Japanese learners bridge the gap between studying and speaking.
+- Building Japanese learning tools at Sessatakuma.
 
 ## Current Projects
 
@@ -39,8 +39,14 @@ Design-focused builder.
 - **[WM31Bot](https://github.com/Hsiii/WM31Bot)** – Make Instagram Reels preview properly in Discord.
 
 ## Experience
-- Microsoft Frontend Intern — Shipped production features and UX/accessibility improvements for [Azure CU](https://contentunderstanding.ai.azure.com/home).
+- Microsoft Frontend Intern — Shipped production features and UX/accessibility improvements for [Azure CU][Azure CU].
 
 [design-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/design.svg
 [languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/lang.svg
 [frontend-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/frontend.svg
+
+[Lucide]: https://github.com/lucide-icons/lucide
+[Svgl]: https://github.com/pheralb/svgl
+[Rosé Pine]: https://github.com/rose-pine/vscode
+
+[Azure CU]: https://contentunderstanding.ai.azure.com/home
