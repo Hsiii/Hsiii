@@ -30,13 +30,13 @@ Design-focused builder.
 
 ### For Devs
 - **[Badgical][Badgical]** — Bring your README badges to life.
-- **[create-hsi-app][create-hsi-app]** – Kickstart a Vite/Next.js app with best practices.
+- **[create-hsi-app][create-hsi-app]** — Kickstart a Vite/Next.js app with best practices.
 - **[Comux][Comux]** — Track Codex usage across accounts and workspaces.
-- **[human-out-of-loop][human-out-of-loop]** – Skills curated for Codex app for autonomous workflows.
+- **[human-out-of-loop][human-out-of-loop]** — Skills curated for Codex app for autonomous workflows.
 
 ### Misc
 - **[Atomize][Atomize]** — Outsmart your opponents in nerdy prime factorization battles.
-- **[WM31Bot][WM31Bot]** – Make Instagram Reels preview properly in Discord.
+- **[WM31Bot][WM31Bot]** — Make Instagram Reels preview properly in Discord.
 
 ## Experience
 - Microsoft Frontend Intern — Shipped production features and UX/accessibility improvements for [Azure CU][Azure CU].
