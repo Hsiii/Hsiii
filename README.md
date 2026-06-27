@@ -7,7 +7,7 @@ Design-focused builder.
 ![frontend][frontend-badge]
 
 ## What I'm doing
-- Designing and building tools that make everyday tasks easier.
+- Building tools that make everyday tasks easier.
 - Contributing to open source projects I love — [Lucide][Lucide], [Svgl][Svgl], and [Rosé Pine][Rosé Pine].
 - Working with NTHU CCC to modernize the NTHU Academic Information System experience.
 - Building Japanese learning tools at Sessatakuma.
