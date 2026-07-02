@@ -14,10 +14,9 @@ Design-focused builder.
 
 ## Current Projects
 
-### Speed First
+### Built for Taiwanese
 - **[OnTrack][OnTrack]** — Check train status with zero taps.
-- **[Homepage][Homepage]** — Cross-browser, keyboard-first bookmark launcher.
-- **[HandyTab][HandyTab]** — Open your most-used browser tabs instantly.
+**[ColorInvo][ColorInvo]** — Color your invoice barcode to match your wallpaper.
 
 ### Better Campus Systems
 - **[ccxpLite][ccxpLite]** — A faster, cleaner NTHU Academic Information System (150+ users).
@@ -27,6 +26,10 @@ Design-focused builder.
 ### Japanese Learning Tools
 - **[AkuMa][AkuMa]** — Japanese pitch-accent & furigana auto-marking tool.
 - **[JaCarda][JaCarda]** — Create Japanese vocabulary cards in one click.
+
+### Browser Utils
+- **[Homepage][Homepage]** — Cross-browser, keyboard-first bookmark launcher.
+- **[HandyTab][HandyTab]** — Open your most-used browser tabs instantly.
 
 ### For Devs
 - **[Badgical][Badgical]** — Bring your README badges to life.
@@ -49,7 +52,8 @@ Design-focused builder.
 [Svgl]: https://github.com/pheralb/svgl
 [Rosé Pine]: https://github.com/rose-pine/vscode
 
-[OnTrack]: https://ontrack.hsichen.dev/docs
+[OnTrack]: https://ontrack.hsichen.dev
+[ColorInvo]: https://github.com/Hsiii/ColorInvo
 [Homepage]: https://github.com/Hsiii/Homepage
 [HandyTab]: https://github.com/Hsiii/HandyTab
 [ccxpLite]: https://github.com/Hsiii/ccxpLite
