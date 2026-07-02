@@ -16,7 +16,7 @@ Design-focused builder.
 
 ### Built for Taiwanese
 - **[OnTrack][OnTrack]** — Check train status with zero taps.
-**[ColorInvo][ColorInvo]** — Color your invoice barcode to match your wallpaper.
+- **[ColorInvo][ColorInvo]** — Color your invoice barcode to match your wallpaper.
 
 ### Better Campus Systems
 - **[ccxpLite][ccxpLite]** — A faster, cleaner NTHU Academic Information System (150+ users).
