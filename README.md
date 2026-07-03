@@ -52,7 +52,7 @@ Design-focused builder.
 [Svgl]: https://github.com/pheralb/svgl
 [Rosé Pine]: https://github.com/rose-pine/vscode
 
-[OnTrack]: https://ontrack.hsichen.dev
+[OnTrack]: https://github.com/Hsiii/OnTrack
 [ColorInvo]: https://github.com/Hsiii/ColorInvo
 [Homepage]: https://github.com/Hsiii/Homepage
 [HandyTab]: https://github.com/Hsiii/HandyTab
