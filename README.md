@@ -40,9 +40,14 @@ Design-focused builder.
 ### Misc
 - **[Atomize][Atomize]** — Outsmart your opponents in nerdy prime factorization battles.
 - **[WM31Bot][WM31Bot]** — Make Instagram Reels preview properly in Discord.
+- **[links][links]** — One page for finding me around the internet.
 
 ## Experience
 - Microsoft Frontend Intern — Shipped production features and UX/accessibility improvements for [Azure CU][Azure CU].
+
+## Contact
+
+Visit my link tree: [links.hsichen.dev](https://links.hsichen.dev/).
 
 [design-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/design.svg
 [languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/lang.svg
@@ -67,5 +72,6 @@ Design-focused builder.
 [human-out-of-loop]: https://github.com/Hsiii/human-out-of-loop
 [Atomize]: https://github.com/Hsiii/Atomize
 [WM31Bot]: https://github.com/Hsiii/WM31Bot
+[links]: https://github.com/Hsiii/links
 
 [Azure CU]: https://contentunderstanding.ai.azure.com/home
