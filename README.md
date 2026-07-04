@@ -18,14 +18,14 @@ Design-focused builder.
 - **[OnTrack][OnTrack]** — Check train status with zero taps.
 - **[ColorInvo][ColorInvo]** — Color your invoice barcode to match your wallpaper.
 
+### Japanese Learning Tools
+- **[AkuMa][AkuMa]** — Japanese pitch-accent & furigana auto-marking tool.
+- **[JaCarda][JaCarda]** — Create Japanese vocabulary cards in one click.
+
 ### Better Campus Systems
 - **[ccxpLite][ccxpLite]** — A faster, cleaner NTHU Academic Information System (150+ users).
 - **[ccxp-decaptcha][ccxp-decaptcha]** — Train OCR models for NTHU CCXP and OAuth captchas.
 - **[EZE3][EZE3]** — One-click access from NYCU Portal to E3.
-
-### Japanese Learning Tools
-- **[AkuMa][AkuMa]** — Japanese pitch-accent & furigana auto-marking tool.
-- **[JaCarda][JaCarda]** — Create Japanese vocabulary cards in one click.
 
 ### Browser Utils
 - **[Homepage][Homepage]** — Cross-browser, keyboard-first bookmark launcher.
