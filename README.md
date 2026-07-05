@@ -43,7 +43,8 @@ Design-focused builder.
 - **[links][links]** — One page for finding me around the internet.
 
 ## Experience
-- Microsoft Frontend Intern — Shipped production features and UX/accessibility improvements for [Azure CU][Azure CU].
+
+Microsoft Frontend Intern — Shipped production features and UX/accessibility improvements for [Azure CU][Azure CU].
 
 ## Contact
 
