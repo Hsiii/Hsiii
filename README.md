@@ -38,6 +38,7 @@ Design-focused builder.
 - **[human-out-of-loop][human-out-of-loop]** — Skills curated for Codex app for autonomous workflows.
 
 ### Misc
+- **[AGENTS.md][AGENTS.md]** — Personal coding-agent instructions and workflow notes.
 - **[Atomize][Atomize]** — Outsmart your opponents in nerdy prime factorization battles.
 - **[WM31Bot][WM31Bot]** — Make Instagram Reels preview properly in Discord.
 - **[links][links]** — One page for finding me around the internet.
@@ -71,6 +72,7 @@ Visit my link tree: [links.hsichen.dev](https://links.hsichen.dev/).
 [create-hsi-app]: https://github.com/Hsiii/create-hsi-app
 [Comux]: https://github.com/Hsiii/comux
 [human-out-of-loop]: https://github.com/Hsiii/human-out-of-loop
+[AGENTS.md]: https://github.com/Hsiii/AGENTS.md
 [Atomize]: https://github.com/Hsiii/Atomize
 [WM31Bot]: https://github.com/Hsiii/WM31Bot
 [links]: https://github.com/Hsiii/links
