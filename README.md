@@ -40,7 +40,7 @@ Design-focused builder.
 ### Misc
 - **[AGENTS.md][AGENTS.md]** — Optimized for fast-paced frontend development with GPT 5.5 in Codex app.
 - **[Atomize][Atomize]** — Outsmart your opponents in nerdy prime factorization battles.
-- **[WM31Bot][WM31Bot]** — Make Instagram Reels preview properly in Discord.
+- **[MiniSago][MiniSago]** — Make Instagram Reels preview properly in Discord.
 - **[links][links]** — One page for finding me around the internet.
 
 ## Experience
@@ -74,7 +74,7 @@ Visit my link tree: [links.hsichen.dev](https://links.hsichen.dev/).
 [human-out-of-loop]: https://github.com/Hsiii/human-out-of-loop
 [AGENTS.md]: https://github.com/Hsiii/AGENTS.md
 [Atomize]: https://github.com/Hsiii/Atomize
-[WM31Bot]: https://github.com/Hsiii/WM31Bot
+[MiniSago]: https://github.com/Hsiii/MiniSago
 [links]: https://github.com/Hsiii/links
 
 [Azure CU]: https://contentunderstanding.ai.azure.com/home
