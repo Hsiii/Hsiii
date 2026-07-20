@@ -15,8 +15,8 @@ Design-focused builder.
 ## Current Projects
 
 ### Built for Taiwanese
-- **[OnTrack][OnTrack]** — Check train status with zero taps.
-- **[ColorInvo][ColorInvo]** — Color your invoice barcode to match your wallpaper.
+- **[ontrack][ontrack]** — Check train status with zero taps.
+- **[color-invo][color-invo]** — Color your invoice barcode to match your wallpaper.
 
 ### Japanese Learning Tools
 - **[AkuMa][AkuMa]** — Japanese pitch-accent & furigana auto-marking tool.
@@ -25,22 +25,22 @@ Design-focused builder.
 ### Better Campus Systems
 - **[ccxpLite][ccxpLite]** — A faster, cleaner NTHU Academic Information System (150+ users).
 - **[ccxp-decaptcha][ccxp-decaptcha]** — Train OCR models for NTHU CCXP and OAuth captchas.
-- **[EZE3][EZE3]** — One-click access from NYCU Portal to E3.
+- **[eze3][eze3]** — One-click access from NYCU Portal to E3.
 
 ### Browser Utils
-- **[Homepage][Homepage]** — Cross-browser, keyboard-first bookmark launcher.
-- **[HandyTab][HandyTab]** — Open your most-used browser tabs instantly.
+- **[homepage][homepage]** — Cross-browser, keyboard-first bookmark launcher.
+- **[handy-tab][handy-tab]** — Open your most-used browser tabs instantly.
 
 ### For Devs
-- **[Badgical][Badgical]** — Bring your README badges to life.
+- **[badgical][badgical]** — Bring your README badges to life.
 - **[create-hsi-app][create-hsi-app]** — Kickstart a Vite/Next.js app with best practices.
-- **[Comux][Comux]** — Track Codex usage across accounts and workspaces.
+- **[comux][comux]** — Track Codex usage across accounts and workspaces.
 - **[human-out-of-loop][human-out-of-loop]** — Skills curated for Codex app for autonomous workflows.
 
 ### Misc
-- **[AGENTS.md][AGENTS.md]** — Optimized for fast-paced frontend development with GPT 5.5 in Codex app.
-- **[Atomize][Atomize]** — Outsmart your opponents in nerdy prime factorization battles.
-- **[MiniSago][MiniSago]** — Make Instagram Reels preview properly in Discord.
+- **[agents.md][agents.md]** — Optimized for fast-paced frontend development with GPT 5.5 in Codex app.
+- **[atomize][atomize]** — Outsmart your opponents in nerdy prime factorization battles.
+- **[mini-sago][mini-sago]** — Make Instagram Reels preview properly in Discord.
 - **[links][links]** — One page for finding me around the internet.
 
 ## Experience
@@ -59,22 +59,22 @@ Visit my link tree: [links.hsichen.dev](https://links.hsichen.dev/).
 [Svgl]: https://github.com/pheralb/svgl
 [Rosé Pine]: https://github.com/rose-pine/vscode
 
-[OnTrack]: https://github.com/Hsiii/OnTrack
-[ColorInvo]: https://github.com/Hsiii/ColorInvo
-[Homepage]: https://github.com/Hsiii/Homepage
-[HandyTab]: https://github.com/Hsiii/HandyTab
+[ontrack]: https://github.com/Hsiii/ontrack
+[color-invo]: https://github.com/Hsiii/color-invo
+[homepage]: https://github.com/Hsiii/homepage
+[handy-tab]: https://github.com/Hsiii/handy-tab
 [ccxpLite]: https://github.com/Hsiii/ccxpLite
 [ccxp-decaptcha]: https://github.com/Hsiii/ccxp-decaptcha
-[EZE3]: https://github.com/Hsiii/EZE3
+[eze3]: https://github.com/Hsiii/eze3
 [AkuMa]: https://github.com/sessatakuma/AkuMa
 [JaCarda]: https://github.com/sessatakuma/JaCarda
-[Badgical]: https://github.com/Hsiii/Badgical
+[badgical]: https://github.com/Hsiii/badgical
 [create-hsi-app]: https://github.com/Hsiii/create-hsi-app
-[Comux]: https://github.com/Hsiii/comux
+[comux]: https://github.com/Hsiii/comux
 [human-out-of-loop]: https://github.com/Hsiii/human-out-of-loop
-[AGENTS.md]: https://github.com/Hsiii/AGENTS.md
-[Atomize]: https://github.com/Hsiii/Atomize
-[MiniSago]: https://github.com/Hsiii/MiniSago
+[agents.md]: https://github.com/Hsiii/agents.md
+[atomize]: https://github.com/Hsiii/atomize
+[mini-sago]: https://github.com/Hsiii/mini-sago
 [links]: https://github.com/Hsiii/links
 
 [Azure CU]: https://contentunderstanding.ai.azure.com/home
