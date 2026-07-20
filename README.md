@@ -38,7 +38,7 @@ Design-focused builder.
 - **[human-out-of-loop][human-out-of-loop]** — Skills curated for Codex app for autonomous workflows.
 
 ### Misc
-- **[agents.md][agents.md]** — Optimized for fast-paced frontend development with GPT 5.5 in Codex app.
+- **[agents.md][agents.md]** — Optimized for fast-paced frontend development with GPT 5.6 in Codex app.
 - **[atomize][atomize]** — Outsmart your opponents in nerdy prime factorization battles.
 - **[mini-sago][mini-sago]** — Make Instagram Reels preview properly in Discord.
 - **[links][links]** — One page for finding me around the internet.
