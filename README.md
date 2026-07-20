@@ -15,8 +15,8 @@ Design-focused builder.
 ## Current Projects
 
 ### Built for Taiwanese
-- **[ontrack][ontrack]** — Check train status with zero taps.
-- **[color-invo][color-invo]** — Color your invoice barcode to match your wallpaper.
+- **[OnTrack][ontrack]** — Check train status with zero taps.
+- **[ColorInvo][color-invo]** — Color your invoice barcode to match your wallpaper.
 
 ### Japanese Learning Tools
 - **[AkuMa][AkuMa]** — Japanese pitch-accent & furigana auto-marking tool.
@@ -25,22 +25,22 @@ Design-focused builder.
 ### Better Campus Systems
 - **[ccxpLite][ccxpLite]** — A faster, cleaner NTHU Academic Information System (150+ users).
 - **[ccxp-decaptcha][ccxp-decaptcha]** — Train OCR models for NTHU CCXP and OAuth captchas.
-- **[eze3][eze3]** — One-click access from NYCU Portal to E3.
+- **[EZE3][eze3]** — One-click access from NYCU Portal to E3.
 
 ### Browser Utils
-- **[homepage][homepage]** — Cross-browser, keyboard-first bookmark launcher.
-- **[handy-tab][handy-tab]** — Open your most-used browser tabs instantly.
+- **[Homepage][homepage]** — Cross-browser, keyboard-first bookmark launcher.
+- **[HandyTab][handy-tab]** — Open your most-used browser tabs instantly.
 
 ### For Devs
-- **[badgical][badgical]** — Bring your README badges to life.
+- **[Badgical][badgical]** — Bring your README badges to life.
 - **[create-hsi-app][create-hsi-app]** — Kickstart a Vite/Next.js app with best practices.
-- **[comux][comux]** — Track Codex usage across accounts and workspaces.
+- **[Comux][comux]** — Track Codex usage across accounts and workspaces.
 - **[human-out-of-loop][human-out-of-loop]** — Skills curated for Codex app for autonomous workflows.
 
 ### Misc
-- **[agents.md][agents.md]** — Optimized for fast-paced frontend development with GPT 5.6 in Codex app.
-- **[atomize][atomize]** — Outsmart your opponents in nerdy prime factorization battles.
-- **[mini-sago][mini-sago]** — Make Instagram Reels preview properly in Discord.
+- **[AGENTS.md][agents.md]** — Optimized for fast-paced frontend development with GPT 5.6 in Codex app.
+- **[Atomize][atomize]** — Outsmart your opponents in nerdy prime factorization battles.
+- **[MiniSago][mini-sago]** — Make Instagram Reels preview properly in Discord.
 - **[links][links]** — One page for finding me around the internet.
 
 ## Experience
