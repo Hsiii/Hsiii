@@ -34,16 +34,21 @@ Design-focused builder.
 - **[Homepage][homepage]** — Cross-browser, keyboard-first bookmark launcher.
 - **[HandyTab][handy-tab]** — Open your most-used browser tabs instantly.
 
+### Bots & Infrastructure
+- **[MiniSago][mini-sago]** — A Discord companion for better embeds, context-aware answers, community access, and developer workflows.
+- **[Sago Cloud][sago-cloud]** — Self-hosted infrastructure for MiniSago and other services using Docker, Caddy, and Cloudflare Tunnel.
+
 ### For Devs
 - **[Badgical][badgical]** — Bring your README badges to life.
 - **[create-hsi-app][create-hsi-app]** — Kickstart a Vite/Next.js app with best practices.
 - **[Comux][comux]** — Track Codex usage across accounts and workspaces.
 - **[human-out-of-loop][human-out-of-loop]** — Skills curated for Codex app for autonomous workflows.
+- **[Codex Skills][codex-skills]** — Small, focused skills for sharper design and engineering workflows.
+- **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — Fish helpers for everyday development and faster Git workflows.
 
 ### Misc
 - **[AGENTS.md][agents.md]** — Optimized for fast-paced frontend development with GPT 5.6 in Codex app.
 - **[Atomize][atomize]** — Outsmart your opponents in nerdy prime factorization battles.
-- **[MiniSago][mini-sago]** — Make Instagram Reels preview properly in Discord.
 - **[links][links]** — One page for finding me around the internet.
 
 ## Experience
@@ -75,9 +80,13 @@ Visit my link tree: [links.hsichen.dev](https://links.hsichen.dev/).
 [create-hsi-app]: https://github.com/Hsiii/create-hsi-app
 [comux]: https://github.com/Hsiii/comux
 [human-out-of-loop]: https://github.com/Hsiii/human-out-of-loop
+[codex-skills]: https://github.com/Hsiii/skills
+[fish-alias]: https://github.com/Hsiii/fish-alias
+[fish-git-alias]: https://github.com/Hsiii/fish-git-alias
 [agents.md]: https://github.com/Hsiii/agents.md
 [atomize]: https://github.com/Hsiii/atomize
 [mini-sago]: https://github.com/Hsiii/mini-sago
+[sago-cloud]: https://github.com/Hsiii/sago-cloud
 [links]: https://github.com/Hsiii/links
 
 [Azure CU]: https://contentunderstanding.ai.azure.com/home
