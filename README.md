@@ -44,10 +44,12 @@ Design-focused builder.
 - **[Comux][comux]** — Track Codex usage across accounts and workspaces.
 - **[human-out-of-loop][human-out-of-loop]** — Skills curated for Codex app for autonomous workflows.
 - **[Codex Skills][codex-skills]** — Small, focused skills for sharper design and engineering workflows.
+
+### Developer Workflow
+- **[AGENTS.md][agents.md]** — Optimized for fast-paced frontend development with GPT 5.6 in Codex app.
 - **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — Fish helpers for everyday development and faster Git workflows.
 
 ### Misc
-- **[AGENTS.md][agents.md]** — Optimized for fast-paced frontend development with GPT 5.6 in Codex app.
 - **[Atomize][atomize]** — Outsmart your opponents in nerdy prime factorization battles.
 - **[links][links]** — One page for finding me around the internet.
 
