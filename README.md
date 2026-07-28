@@ -7,12 +7,12 @@ Design-focused builder.
 ![frontend][frontend-badge]
 
 ## What I'm doing
-- Building apps and tools that make everyday tasks easier.
-- Working with NTHU CCC to modernize the NTHU Academic Information System experience.
+- Building stuff to make my (or ours) life easier.
 - Building Japanese learning tools at Sessatakuma.
+- Working with NTHU CCC to modernize the academic information system.
 - Building an internal system for a clinic.
 - Teaching a mower to drive.
-- Keeping my illustration account on life support while I keep building things.
+- Keeping my illustration account on life support.
 
 ## Current Projects
 
