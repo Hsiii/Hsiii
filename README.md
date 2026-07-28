@@ -10,7 +10,6 @@ Design-focused builder.
 - Building apps and tools that make everyday tasks easier.
 - Working with NTHU CCC to modernize the NTHU Academic Information System experience.
 - Building Japanese learning tools at Sessatakuma.
-- Contributing to open source projects I love — [Lucide][Lucide], [Svgl][Svgl], and [Rosé Pine][Rosé Pine].
 - Building an internal system for a clinic.
 - Teaching a mower to drive.
 - Keeping my illustration account on life support while I keep building things.
@@ -34,32 +33,31 @@ Design-focused builder.
 - **[Homepage][homepage]** — Cross-browser, keyboard-first bookmark launcher.
 - **[HandyTab][handy-tab]** — Open your most-used browser tabs instantly.
 
-### Bots & Infrastructure
+### Apps for Devs
+- **[Badgical][badgical]** — Bring your README badges to life.
+- **[Comux][comux]** — Track Codex usage across accounts and workspaces.
+
+### Niche Games
+- **[Atomize][atomize]** — Outsmart your opponents in nerdy prime factorization battles.
+
+### Bots & Infra
 - **[MiniSago][mini-sago]** — A Discord companion for better embeds, context-aware answers, community access, and developer workflows.
 - **[Sago Cloud][sago-cloud]** — Self-hosted infrastructure for MiniSago and other services using Docker, Caddy, and Cloudflare Tunnel.
 
-### For Devs
-- **[Badgical][badgical]** — Bring your README badges to life.
-- **[create-hsi-app][create-hsi-app]** — Kickstart a Vite/Next.js app with best practices.
-- **[Comux][comux]** — Track Codex usage across accounts and workspaces.
-- **[human-out-of-loop][human-out-of-loop]** — Skills curated for Codex app for autonomous workflows.
-- **[Codex Skills][codex-skills]** — Small, focused skills for sharper design and engineering workflows.
-
-### Developer Workflow
-- **[AGENTS.md][agents.md]** — Optimized for fast-paced frontend development with GPT 5.6 in Codex app.
-- **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — Fish helpers for everyday development and faster Git workflows.
-
-### Misc
-- **[Atomize][atomize]** — Outsmart your opponents in nerdy prime factorization battles.
+### Me
 - **[links][links]** — One page for finding me around the internet.
+
+### My Workflow
+- **[create-hsi-app][create-hsi-app]** — Kickstart a Vite/Next.js app with best practices.
+- **[human-out-of-loop][human-out-of-loop]** — Skills curated for Codex app for autonomous workflows.
+- **[AGENTS.md][agents.md]** — Optimized for fast-paced frontend development with GPT 5.6 in Codex app.
+- **[Codex Skills][codex-skills]** — Small, focused skills for sharper design and engineering workflows.
+- **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — Fish helpers for everyday development and faster Git workflows.
 
 ## Experience
 
-Microsoft Frontend Intern — Shipped production features and UX/accessibility improvements for [Azure CU][Azure CU].
-
-## Contact
-
-Visit my link tree: [links.hsichen.dev](https://links.hsichen.dev/).
+- Microsoft Frontend Intern — Shipped production features and UX/accessibility improvements for [Azure CU][Azure CU].
+- Contributed to open source projects I love — [Lucide][Lucide], [Svgl][Svgl], and [Rosé Pine][Rosé Pine].
 
 [design-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/design.svg
 [languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/lang.svg
