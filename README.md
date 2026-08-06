@@ -57,7 +57,7 @@ Design-focused builder.
 ## Experience
 
 - Microsoft Frontend Intern — Shipped production features and UX/accessibility improvements for [Azure CU][Azure CU].
-- Contributed to open source projects I love — [Lucide][Lucide], [Svgl][Svgl], and [Rosé Pine][Rosé Pine].
+- Contributed to open source projects I love — [Lucide][Lucide], [Svgl][Svgl], [Self-hosted LiveSync][Self-hosted LiveSync] and [Rosé Pine][Rosé Pine].
 
 [design-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/design.svg
 [languages-badge]: https://raw.githubusercontent.com/Hsiii/Hsiii/main/lang.svg
@@ -65,6 +65,7 @@ Design-focused builder.
 
 [Lucide]: https://github.com/lucide-icons/lucide
 [Svgl]: https://github.com/pheralb/svgl
+[Self-hosted LiveSync]: https://github.com/vrtmrz/obsidian-livesync
 [Rosé Pine]: https://github.com/rose-pine/vscode
 
 [ontrack]: https://github.com/Hsiii/ontrack
