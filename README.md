@@ -51,7 +51,7 @@ Design-focused builder.
 - **[create-hsi-app][create-hsi-app]** — Kickstart a Vite/Next.js app with best practices.
 - **[human-out-of-loop][human-out-of-loop]** — Skills curated for Codex app for autonomous workflows.
 - **[AGENTS.md][agents.md]** — Optimized for fast-paced frontend development with GPT 5.6 in Codex app.
-- **[Codex Skills][codex-skills]** — Small, focused skills for sharper design and engineering workflows.
+- **[skills][skills]** — Small, focused skills for sharper design and engineering workflows.
 - **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — Fish helpers for everyday development and faster Git workflows.
 
 ## Experience
@@ -81,7 +81,7 @@ Design-focused builder.
 [create-hsi-app]: https://github.com/Hsiii/create-hsi-app
 [comux]: https://github.com/Hsiii/comux
 [human-out-of-loop]: https://github.com/Hsiii/human-out-of-loop
-[codex-skills]: https://github.com/Hsiii/skills
+[skills]: https://github.com/Hsiii/skills
 [fish-alias]: https://github.com/Hsiii/fish-alias
 [fish-git-alias]: https://github.com/Hsiii/fish-git-alias
 [agents.md]: https://github.com/Hsiii/agents.md
