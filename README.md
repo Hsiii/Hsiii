@@ -18,7 +18,7 @@ Design-focused builder.
 
 ### Everyday Tools
 - **[OnTrack][ontrack]** — Check train status with zero taps.
-- **[ColorInvo][color-invo]** — Color your invoice barcode to match your wallpaper.
+- **[ColorInvo][color-invo]** — Pick the best color (or cat) far your invoice barcode.
 - **[Homepage][homepage]** — Cross-browser, keyboard-first bookmark launcher.
 - **[HandyTab][handy-tab]** — Open your most-used browser tabs instantly.
 - **[Sago Media][sago-media-macos]** — Turn Mac screen recordings that are too large for Discord into links you can paste instead.
