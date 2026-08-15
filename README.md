@@ -21,7 +21,7 @@ Design-focused builder.
 - **[ColorInvo][color-invo]** — Pick the best color (or cat) far your invoice barcode.
 - **[Homepage][homepage]** — Cross-browser, keyboard-first bookmark launcher.
 - **[HandyTab][handy-tab]** — Open your most-used browser tabs instantly.
-- **[Sago Media][sago-media-macos]** — Turn Mac screen recordings that are too large for Discord into links you can paste instead.
+- **[Sago Drop][sago-drop]** — Turn Mac screen recordings that are too large for Discord into links you can paste instead.
 
 ### Japanese Learning Tools
 - **[AkuMa][AkuMa]** — Japanese pitch-accent & furigana auto-marking tool.
@@ -49,7 +49,7 @@ Design-focused builder.
 
 ### Bots, Services & Infrastructure
 - **[MiniSago][mini-sago]** — A Discord companion for better embeds, context-aware answers, community access, and developer workflows.
-- **[Sago Media Platform][sago-media-platform]** — Authenticated uploads, approval flows, and the CLI behind `media.hsichen.dev`.
+- **[Sago Media][sago-media]** — Upload media for pull requests with authenticated access and reusable share links.
 - **[Sago Cloud][sago-cloud]** — Self-hosted infrastructure for MiniSago and other services using Docker, Caddy, and Cloudflare Tunnel.
 
 ### Me
@@ -82,8 +82,8 @@ Design-focused builder.
 [badgical]: https://github.com/Hsiii/badgical
 [create-hsi-app]: https://github.com/Hsiii/create-hsi-app
 [comux]: https://github.com/Hsiii/comux
-[sago-media-macos]: https://github.com/Hsiii/sago-media-macos
-[sago-media-platform]: https://github.com/Hsiii/sago-media
+[sago-drop]: https://github.com/Hsiii/sago-drop
+[sago-media]: https://github.com/Hsiii/sago-media
 [human-out-of-loop]: https://github.com/Hsiii/human-out-of-loop
 [skills]: https://github.com/Hsiii/skills
 [fish-alias]: https://github.com/Hsiii/fish-alias
