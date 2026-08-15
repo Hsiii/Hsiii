@@ -50,7 +50,7 @@ Design-focused builder.
 ### My Workflow
 - **[create-hsi-app][create-hsi-app]** — Kickstart a Vite/Next.js app with best practices.
 - **[human-out-of-loop][human-out-of-loop]** — Skills curated for Codex app for autonomous workflows.
-- **[AGENTS.md][agents.md]** — Optimized for fast-paced frontend development with GPT 5.6 in Codex app.
+- **[AGENTS.md][agents.md]** — Optimized for frontend development with GPT 5.6 Sol in Codex app.
 - **[skills][skills]** — Small, focused skills for sharper design and engineering workflows.
 - **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — Fish helpers for everyday development and faster Git workflows.
 
