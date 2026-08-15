@@ -16,9 +16,12 @@ Design-focused builder.
 
 ## Current Projects
 
-### Built for Taiwanese
+### Everyday Tools
 - **[OnTrack][ontrack]** — Check train status with zero taps.
 - **[ColorInvo][color-invo]** — Color your invoice barcode to match your wallpaper.
+- **[Homepage][homepage]** — Cross-browser, keyboard-first bookmark launcher.
+- **[HandyTab][handy-tab]** — Open your most-used browser tabs instantly.
+- **[Sago Media][sago-media-macos]** — Turn Mac screen recordings that are too large for Discord into links you can paste instead.
 
 ### Japanese Learning Tools
 - **[AkuMa][AkuMa]** — Japanese pitch-accent & furigana auto-marking tool.
@@ -29,31 +32,29 @@ Design-focused builder.
 - **[ccxp-decaptcha][ccxp-decaptcha]** — Train OCR models for NTHU CCXP and OAuth captchas.
 - **[EZE3][eze3]** — One-click access from NYCU Portal to E3.
 
-### Browser Utils
-- **[Homepage][homepage]** — Cross-browser, keyboard-first bookmark launcher.
-- **[HandyTab][handy-tab]** — Open your most-used browser tabs instantly.
-
-### Apps for Devs
+### Developer Tools
 - **[Badgical][badgical]** — Bring your README badges to life.
 - **[Comux][comux]** — Track Codex usage across accounts and workspaces.
-- **[Sago Media][sago-media]** — Turn Mac screen recordings that are too large for Discord into links you can paste instead.
+- **[create-hsi-app][create-hsi-app]** — Kickstart a Vite/Next.js app with best practices.
+- **[human-out-of-loop][human-out-of-loop]** — Skills curated for Codex app for autonomous workflows.
+- **[skills][skills]** — Small, focused skills for sharper design and engineering workflows.
 
-### Niche Games
+### My Workflow
+- **[AGENTS.md][agents.md]** — Optimized for frontend development with GPT 5.6 Sol in Codex app.
+- **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — Fish helpers for everyday development and faster Git workflows.
+
+### Games & Experiments
 - **[Atomize][atomize]** — Outsmart your opponents in nerdy prime factorization battles.
+- **[Goose][goose]** — A desktop goose being built for hydration and posture reminders.
 
-### Bots & Infra
+### Bots, Services & Infrastructure
 - **[MiniSago][mini-sago]** — A Discord companion for better embeds, context-aware answers, community access, and developer workflows.
+- **[Sago Media Platform][sago-media-platform]** — Authenticated uploads, approval flows, and the CLI behind `media.hsichen.dev`.
 - **[Sago Cloud][sago-cloud]** — Self-hosted infrastructure for MiniSago and other services using Docker, Caddy, and Cloudflare Tunnel.
 
 ### Me
+- **[hsichen.dev][hsichen.dev]** — Personal site and project index for everything I build.
 - **[links][links]** — One page for finding me around the internet.
-
-### My Workflow
-- **[create-hsi-app][create-hsi-app]** — Kickstart a Vite/Next.js app with best practices.
-- **[human-out-of-loop][human-out-of-loop]** — Skills curated for Codex app for autonomous workflows.
-- **[AGENTS.md][agents.md]** — Optimized for frontend development with GPT 5.6 Sol in Codex app.
-- **[skills][skills]** — Small, focused skills for sharper design and engineering workflows.
-- **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — Fish helpers for everyday development and faster Git workflows.
 
 ## Experience
 
@@ -81,15 +82,18 @@ Design-focused builder.
 [badgical]: https://github.com/Hsiii/badgical
 [create-hsi-app]: https://github.com/Hsiii/create-hsi-app
 [comux]: https://github.com/Hsiii/comux
-[sago-media]: https://github.com/Hsiii/sago-media-macos
+[sago-media-macos]: https://github.com/Hsiii/sago-media-macos
+[sago-media-platform]: https://github.com/Hsiii/sago-media
 [human-out-of-loop]: https://github.com/Hsiii/human-out-of-loop
 [skills]: https://github.com/Hsiii/skills
 [fish-alias]: https://github.com/Hsiii/fish-alias
 [fish-git-alias]: https://github.com/Hsiii/fish-git-alias
 [agents.md]: https://github.com/Hsiii/agents.md
 [atomize]: https://github.com/Hsiii/atomize
+[goose]: https://github.com/Hsiii/goose
 [mini-sago]: https://github.com/Hsiii/mini-sago
 [sago-cloud]: https://github.com/Hsiii/sago-cloud
+[hsichen.dev]: https://github.com/Hsiii/hsichen.dev
 [links]: https://github.com/Hsiii/links
 
 [Azure CU]: https://contentunderstanding.ai.azure.com/home
