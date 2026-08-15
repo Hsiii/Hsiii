@@ -36,6 +36,7 @@ Design-focused builder.
 ### Apps for Devs
 - **[Badgical][badgical]** — Bring your README badges to life.
 - **[Comux][comux]** — Track Codex usage across accounts and workspaces.
+- **[Sago Media][sago-media]** — Turn Mac screen recordings that are too large for Discord into links you can paste instead.
 
 ### Niche Games
 - **[Atomize][atomize]** — Outsmart your opponents in nerdy prime factorization battles.
@@ -80,6 +81,7 @@ Design-focused builder.
 [badgical]: https://github.com/Hsiii/badgical
 [create-hsi-app]: https://github.com/Hsiii/create-hsi-app
 [comux]: https://github.com/Hsiii/comux
+[sago-media]: https://github.com/Hsiii/sago-media-macos
 [human-out-of-loop]: https://github.com/Hsiii/human-out-of-loop
 [skills]: https://github.com/Hsiii/skills
 [fish-alias]: https://github.com/Hsiii/fish-alias
