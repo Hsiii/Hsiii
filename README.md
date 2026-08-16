@@ -1,60 +1,60 @@
 # Hi, I'm Hsi 👋
 
-Design-focused builder.
+Design-focused builder
 
 ![design][design-badge]
 ![languages][languages-badge]
 ![frontend][frontend-badge]
 
 ## What I'm doing
-- Building stuff to make my (or ours) life easier.
-- Building Japanese learning tools at Sessatakuma.
-- Working with NTHU CCC to modernize the academic information system.
-- Building an internal system for a clinic.
-- Teaching a mower to drive.
-- Keeping my illustration account on life support.
+- Building stuff to make my (maybe even ours) life easier
+- Working with NTHU CCC to modernize the academic information system
+- Building Japanese learning tools at Sessatakuma
+- Keeping my illustration account on life support (Yeah I will draw tomorrow)
 
 ## Current Projects
 
-### Everyday Tools
-- **[OnTrack][ontrack]** — Check train status with zero taps.
-- **[ColorInvo][color-invo]** — Pick the best color (or cat) far your invoice barcode.
-- **[Homepage][homepage]** — Cross-browser, keyboard-first bookmark launcher.
-- **[HandyTab][handy-tab]** — Open your most-used browser tabs instantly.
-- **[Sago Drop][sago-drop]** — Turn Mac screen recordings that are too large for Discord into links you can paste instead.
+### Built for Taiwanese
+- **[OnTrack][ontrack]** — See your next train with zero taps
+- **[ColorInvo][color-invo]** — Pick the best color for your invoice barcode (and add a cat scratching it)
 
 ### Japanese Learning Tools
-- **[AkuMa][AkuMa]** — Japanese pitch-accent & furigana auto-marking tool.
-- **[JaCarda][JaCarda]** — Create Japanese vocabulary cards in one click.
+- **[AkuMa][AkuMa]** — Japanese pitch-accent & furigana auto-marking tool
+- **[JaCarda][JaCarda]** — Create polished vocabulary cards in one click
 
 ### Better Campus Systems
-- **[ccxpLite][ccxpLite]** — A faster, cleaner NTHU Academic Information System (150+ users).
-- **[ccxp-decaptcha][ccxp-decaptcha]** — Train OCR models for NTHU CCXP and OAuth captchas.
-- **[EZE3][eze3]** — One-click access from NYCU Portal to E3.
+- **[ccxpLite][ccxpLite]** — A faster, cleaner NTHU Academic Information System experience (200+ users)
+- **[ccxp-decaptcha][ccxp-decaptcha]** — OCR model training pipeline for NTHU CCXP and OAuth captchas
+- **[EZE3][eze3]** — One-click access from NYCU Portal to E3
 
-### Developer Tools
-- **[Badgical][badgical]** — Bring your README badges to life.
-- **[Comux][comux]** — Track Codex usage across accounts and workspaces.
-- **[create-hsi-app][create-hsi-app]** — Kickstart a Vite/Next.js app with best practices.
-- **[human-out-of-loop][human-out-of-loop]** — Skills curated for Codex app for autonomous workflows.
-- **[skills][skills]** — Small, focused skills for sharper design and engineering workflows.
+### Everyday Tools
+- **[Homepage][homepage]** — Customizable browser homepage with a keyboard-first bookmark launcher
+- **[HandyTab][handy-tab]** — Open your browser homepage with a three-finger tap on your touchpad (or a hand wave if you want)
+- **[Sago Drop][sago-drop]** — Turn large videos into previewable links so you can send it in Discord
+- **[Goose][goose]** — A goose pet that gives you hydration and posture checks
 
-### My Workflow
-- **[AGENTS.md][agents.md]** — Optimized for frontend development with GPT 5.6 Sol in Codex app.
-- **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — Fish helpers for everyday development and faster Git workflows.
+### Built for Devs
+- **[Badgical][badgical]** — Bring your README badges to life
+- **[Comux][comux]** — See Codex usage in your menubar across accounts and workspaces
 
-### Games & Experiments
-- **[Atomize][atomize]** — Outsmart your opponents in nerdy prime factorization battles.
-- **[Goose][goose]** — A desktop goose being built for hydration and posture reminders.
+### My Dev Workflow
+- **[create-hsi-app][create-hsi-app]** — Kickstart a Vite/Next.js app with best practices
+- **[Human out of Loop][human-out-of-loop]** — Let Codex turn finished work (or even a fresh issue) into a **proper** PR
+- **[Sago Media][sago-media]** — Let agents upload media for PRs with no effort
+- **[skills][skills]** — Skills including typography clean up, html artifacts and port forwarding
+- **[AGENTS.md][agents.md]** — So 5.6 Sol behaves and even writes commit messages and CSS properly
+- **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — For faster dev workflows
 
-### Bots, Services & Infrastructure
-- **[MiniSago][mini-sago]** — A Discord companion for better embeds, context-aware answers, community access, and developer workflows.
-- **[Sago Media][sago-media]** — Upload media for pull requests with authenticated access and reusable share links.
-- **[Sago Cloud][sago-cloud]** — Self-hosted infrastructure for MiniSago and other services using Docker, Caddy, and Cloudflare Tunnel.
+### Games
+- **[Atomize][atomize]** — A nerdy prime factorization PVP mobile game
+
+### Bots & Infra
+- **[Mini Sago][mini-sago]** — A Discord bot for... everything? Codex-powered chat with server context, emote creation and cross-server migration, manage issue or publish PR based on discussion context, maintain PR review thread life cycle, set reminders, process images, access files from my Mac, you name it.
+- **[Sago Cloud][sago-cloud]** — Self-hosted infrastructure for Mini Sago, Obsidian LiveSync, Homepage, Sago Media api, DB and more 
 
 ### Me
-- **[hsichen.dev][hsichen.dev]** — Personal site and project index for everything I build.
-- **[links][links]** — One page for finding me around the internet.
+- **[links][links]** — One page for finding me around the internet
+- **[hsichen.dev][hsichen.dev]** — Minimal personal project index page
 
 ## Experience
 
