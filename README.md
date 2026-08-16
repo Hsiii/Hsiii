@@ -31,7 +31,6 @@ Design-focused builder
 - **[Homepage][homepage]** — Customizable browser homepage with a keyboard-first bookmark launcher
 - **[HandyTab][handy-tab]** — Open your browser homepage with a three-finger tap on your touchpad (or a hand wave if you want)
 - **[Sago Drop][sago-drop]** — Turn large videos into previewable links so you can send it in Discord
-- **[Goose][goose]** — A goose pet that gives you hydration and posture checks
 
 ### Built for Devs
 - **[Badgical][badgical]** — Bring your README badges to life
