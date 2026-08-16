@@ -33,7 +33,7 @@ Design-focused builder
 - **[Sago Drop][sago-drop]** — Turn large videos into previewable links so you can send it in Discord
 
 ### Built for Devs
-- **[Badgical][badgical]** — Bring your README badges to life
+- **[Badgical][badgical]** — Make your README badges come to life
 - **[Comux][comux]** — See Codex usage in your menubar across accounts and workspaces
 
 ### My Dev Workflow
@@ -48,7 +48,7 @@ Design-focused builder
 - **[Atomize][atomize]** — A nerdy prime factorization PVP mobile game
 
 ### Bots & Infra
-- **[Mini Sago][mini-sago]** — A Discord bot for... everything? Codex-powered chat with server context, emote creation and cross-server migration, manage issue or publish PR based on discussion context, maintain PR review thread life cycle, set reminders, process images, access files from my Mac, you name it.
+- **[Mini Sago][mini-sago]** — A Discord bot for... everything?
 - **[Sago Cloud][sago-cloud]** — Self-hosted infrastructure for Mini Sago, Obsidian LiveSync, Homepage, Sago Media api, DB and more 
 
 ### Me
