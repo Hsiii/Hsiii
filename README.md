@@ -60,39 +60,39 @@ Design-focused builder
 - Microsoft Frontend Intern — Shipped production features and UX/accessibility improvements for [Azure CU][Azure CU].
 - Contributed to open source projects I love — [Lucide][Lucide], [Svgl][Svgl], [Self-hosted LiveSync][Self-hosted LiveSync] and [Rosé Pine][Rosé Pine].
 
-[design-badge]: https://raw.githubusercontent.com/orangesago/orangesago/main/design.svg
-[languages-badge]: https://raw.githubusercontent.com/orangesago/orangesago/main/lang.svg
-[frontend-badge]: https://raw.githubusercontent.com/orangesago/orangesago/main/frontend.svg
+[design-badge]: https://raw.githubusercontent.com/sago-cream/sago-cream/main/design.svg
+[languages-badge]: https://raw.githubusercontent.com/sago-cream/sago-cream/main/lang.svg
+[frontend-badge]: https://raw.githubusercontent.com/sago-cream/sago-cream/main/frontend.svg
 
 [Lucide]: https://github.com/lucide-icons/lucide
 [Svgl]: https://github.com/pheralb/svgl
 [Self-hosted LiveSync]: https://github.com/vrtmrz/obsidian-livesync
 [Rosé Pine]: https://github.com/rose-pine/vscode
 
-[ontrack]: https://github.com/orangesago/ontrack
-[color-invo]: https://github.com/orangesago/color-invo
-[homepage]: https://github.com/orangesago/homepage
-[handy-tab]: https://github.com/orangesago/handy-tab
-[ccxpLite]: https://github.com/orangesago/ccxp-lite
-[ccxp-decaptcha]: https://github.com/orangesago/ccxp-decaptcha
-[eze3]: https://github.com/orangesago/eze3
+[ontrack]: https://github.com/sago-cream/ontrack
+[color-invo]: https://github.com/sago-cream/color-invo
+[homepage]: https://github.com/sago-cream/homepage
+[handy-tab]: https://github.com/sago-cream/handy-tab
+[ccxpLite]: https://github.com/sago-cream/ccxp-lite
+[ccxp-decaptcha]: https://github.com/sago-cream/ccxp-decaptcha
+[eze3]: https://github.com/sago-cream/eze3
 [AkuMa]: https://github.com/sessatakuma/AkuMa
 [JaCarda]: https://github.com/sessatakuma/JaCarda
-[badgical]: https://github.com/orangesago/badgical
-[create-hsi-app]: https://github.com/orangesago/create-hsi-app
-[comux]: https://github.com/orangesago/comux
-[sago-drop]: https://github.com/orangesago/sago-drop
-[sago-media]: https://github.com/orangesago/sago-media
-[human-out-of-loop]: https://github.com/orangesago/human-out-of-loop
-[skills]: https://github.com/orangesago/skills
-[fish-alias]: https://github.com/orangesago/fish-alias
-[fish-git-alias]: https://github.com/orangesago/fish-git-alias
-[agents.md]: https://github.com/orangesago/agents.md
-[atomize]: https://github.com/orangesago/atomize
-[goose]: https://github.com/orangesago/goose
-[mini-sago]: https://github.com/orangesago/mini-sago
-[sago-cloud]: https://github.com/orangesago/sago-cloud
-[hsichen.dev]: https://github.com/orangesago/hsichen.dev
-[links]: https://github.com/orangesago/links
+[badgical]: https://github.com/sago-cream/badgical
+[create-hsi-app]: https://github.com/sago-cream/create-hsi-app
+[comux]: https://github.com/sago-cream/comux
+[sago-drop]: https://github.com/sago-cream/sago-drop
+[sago-media]: https://github.com/sago-cream/sago-media
+[human-out-of-loop]: https://github.com/sago-cream/human-out-of-loop
+[skills]: https://github.com/sago-cream/skills
+[fish-alias]: https://github.com/sago-cream/fish-alias
+[fish-git-alias]: https://github.com/sago-cream/fish-git-alias
+[agents.md]: https://github.com/sago-cream/agents.md
+[atomize]: https://github.com/sago-cream/atomize
+[goose]: https://github.com/sago-cream/goose
+[mini-sago]: https://github.com/sago-cream/mini-sago
+[sago-cloud]: https://github.com/sago-cream/sago-cloud
+[hsichen.dev]: https://github.com/sago-cream/hsichen.dev
+[links]: https://github.com/sago-cream/links
 
 [Azure CU]: https://contentunderstanding.ai.azure.com/home
