@@ -39,7 +39,6 @@ Design-focused builder
 ### My Dev Workflow
 - **[create-hsi-app][create-hsi-app]** — Kickstart a Vite/Next.js app with best practices
 - **[Human out of Loop][human-out-of-loop]** — Let Codex turn finished work (or even a fresh issue) into a **proper** PR
-- **[Sago Media][sago-media]** — Let agents upload media for PRs with no effort
 - **[skills][skills]** — Skills including typography clean up, html artifacts and port forwarding
 - **[AGENTS.md][agents.md]** — So 5.6 Sol behaves and even writes commit messages and CSS properly
 - **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — For faster dev workflows
@@ -49,6 +48,7 @@ Design-focused builder
 
 ### Bots & Infra
 - **[Mini Sago][mini-sago]** — A Discord bot for... everything?
+- **[Sago Media][sago-media]** — Self-hosted media backend powering Sago Drop
 - **[Sago Cloud][sago-cloud]** — Self-hosted infrastructure for Mini Sago, Obsidian LiveSync, Homepage, Sago Media api, DB and more 
 
 ### Me
