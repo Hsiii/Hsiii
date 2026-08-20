@@ -38,9 +38,8 @@ Design-focused builder
 
 ### My Dev Workflow
 - **[create-hsi-app][create-hsi-app]** — Kickstart a Vite/Next.js app with best practices
-- **[Human out of Loop][human-out-of-loop]** — Let Codex turn finished work (or even a fresh issue) into a **proper** PR
-- **[skills][skills]** — Skills including typography clean up, html artifacts and port forwarding
-- **[AGENTS.md][agents.md]** — So 5.6 Sol behaves and even writes commit messages and CSS properly
+- **[AGENTS.md][agents.md]** — So 5.6 Sol behaves
+- **[Skillbook][skillbook]** — Skills I add to Codex for quicker, better workflow
 - **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — For faster dev workflows
 
 ### Games
@@ -84,6 +83,7 @@ Design-focused builder
 [sago-drop]: https://github.com/sago-cream/sago-drop
 [sago-media]: https://github.com/sago-cream/sago-media
 [human-out-of-loop]: https://github.com/sago-cream/human-out-of-loop
+[skillbook]: https://github.com/sago-cream/skillbook
 [skills]: https://github.com/sago-cream/skills
 [fish-alias]: https://github.com/sago-cream/fish-alias
 [fish-git-alias]: https://github.com/sago-cream/fish-git-alias
